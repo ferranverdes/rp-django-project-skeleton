@@ -1,0 +1,1032 @@
+[
+  {
+    "model": "location.StreetType",
+    "pk": 1,
+    "fields": { "name": "Alley", "abbreviation": "ALY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 2,
+    "fields": { "name": "Anex", "abbreviation": "ANX" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 3,
+    "fields": { "name": "Arcade", "abbreviation": "ARC" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 4,
+    "fields": { "name": "Avenue", "abbreviation": "AVE" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 5,
+    "fields": { "name": "Bayou", "abbreviation": "BYU" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 6,
+    "fields": { "name": "Beach", "abbreviation": "BCH" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 7,
+    "fields": { "name": "Bend", "abbreviation": "BND" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 8,
+    "fields": { "name": "Bluff", "abbreviation": "BLF" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 9,
+    "fields": { "name": "Bluffs", "abbreviation": "BLFS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 10,
+    "fields": { "name": "Bottom", "abbreviation": "BTM" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 11,
+    "fields": { "name": "Boulevard", "abbreviation": "BLVD" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 12,
+    "fields": { "name": "Branch", "abbreviation": "BR" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 13,
+    "fields": { "name": "Bridge", "abbreviation": "BRG" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 14,
+    "fields": { "name": "Brook", "abbreviation": "BRK" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 15,
+    "fields": { "name": "Brooks", "abbreviation": "BRKS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 16,
+    "fields": { "name": "Burg", "abbreviation": "BG" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 17,
+    "fields": { "name": "Burgs", "abbreviation": "BGS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 18,
+    "fields": { "name": "Bypass", "abbreviation": "BYP" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 19,
+    "fields": { "name": "Camp", "abbreviation": "CP" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 20,
+    "fields": { "name": "Canyon", "abbreviation": "CYN" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 21,
+    "fields": { "name": "Cape", "abbreviation": "CPE" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 22,
+    "fields": { "name": "Causeway", "abbreviation": "CSWY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 23,
+    "fields": { "name": "Center", "abbreviation": "CTR" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 24,
+    "fields": { "name": "Centers", "abbreviation": "CTRS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 25,
+    "fields": { "name": "Circle", "abbreviation": "CIR" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 26,
+    "fields": { "name": "Circles", "abbreviation": "CIRS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 27,
+    "fields": { "name": "Cliff", "abbreviation": "CLF" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 28,
+    "fields": { "name": "Cliffs", "abbreviation": "CLFS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 29,
+    "fields": { "name": "Club", "abbreviation": "CLB" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 30,
+    "fields": { "name": "Common", "abbreviation": "CMN" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 31,
+    "fields": { "name": "Commons", "abbreviation": "CMNS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 32,
+    "fields": { "name": "Corner", "abbreviation": "COR" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 33,
+    "fields": { "name": "Corners", "abbreviation": "CORS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 34,
+    "fields": { "name": "Course", "abbreviation": "CRSE" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 35,
+    "fields": { "name": "Court", "abbreviation": "CT" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 36,
+    "fields": { "name": "Courts", "abbreviation": "CTS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 37,
+    "fields": { "name": "Cove", "abbreviation": "CV" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 38,
+    "fields": { "name": "Coves", "abbreviation": "CVS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 39,
+    "fields": { "name": "Creek", "abbreviation": "CRK" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 40,
+    "fields": { "name": "Crescent", "abbreviation": "CRES" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 41,
+    "fields": { "name": "Crest", "abbreviation": "CRST" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 42,
+    "fields": { "name": "Crossing", "abbreviation": "XING" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 43,
+    "fields": { "name": "Crossroad", "abbreviation": "XRD" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 44,
+    "fields": { "name": "Crossroads", "abbreviation": "XRDS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 45,
+    "fields": { "name": "Curve", "abbreviation": "CURV" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 46,
+    "fields": { "name": "Dale", "abbreviation": "DL" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 47,
+    "fields": { "name": "Dam", "abbreviation": "DM" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 48,
+    "fields": { "name": "Divide", "abbreviation": "DV" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 49,
+    "fields": { "name": "Drive", "abbreviation": "DR" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 50,
+    "fields": { "name": "Drives", "abbreviation": "DRS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 51,
+    "fields": { "name": "Estate", "abbreviation": "EST" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 52,
+    "fields": { "name": "Estates", "abbreviation": "ESTS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 53,
+    "fields": { "name": "Expressway", "abbreviation": "EXPY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 54,
+    "fields": { "name": "Extension", "abbreviation": "EXT" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 55,
+    "fields": { "name": "Extensions", "abbreviation": "EXTS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 56,
+    "fields": { "name": "Fall", "abbreviation": "FALL" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 57,
+    "fields": { "name": "Falls", "abbreviation": "FLS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 58,
+    "fields": { "name": "Ferry", "abbreviation": "FRY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 59,
+    "fields": { "name": "Field", "abbreviation": "FLD" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 60,
+    "fields": { "name": "Fields", "abbreviation": "FLDS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 61,
+    "fields": { "name": "Flat", "abbreviation": "FLT" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 62,
+    "fields": { "name": "Flats", "abbreviation": "FLTS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 63,
+    "fields": { "name": "Ford", "abbreviation": "FRD" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 64,
+    "fields": { "name": "Fords", "abbreviation": "FRDS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 65,
+    "fields": { "name": "Forest", "abbreviation": "FRST" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 66,
+    "fields": { "name": "Forge", "abbreviation": "FRG" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 67,
+    "fields": { "name": "Forges", "abbreviation": "FRGS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 68,
+    "fields": { "name": "Fork", "abbreviation": "FRK" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 69,
+    "fields": { "name": "Forks", "abbreviation": "FRKS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 70,
+    "fields": { "name": "Fort", "abbreviation": "FT" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 71,
+    "fields": { "name": "Freeway", "abbreviation": "FWY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 72,
+    "fields": { "name": "Garden", "abbreviation": "GDN" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 73,
+    "fields": { "name": "Gardens", "abbreviation": "GDNS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 74,
+    "fields": { "name": "Gateway", "abbreviation": "GTWY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 75,
+    "fields": { "name": "Glen", "abbreviation": "GLN" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 76,
+    "fields": { "name": "Glens", "abbreviation": "GLNS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 77,
+    "fields": { "name": "Green", "abbreviation": "GRN" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 78,
+    "fields": { "name": "Greens", "abbreviation": "GRNS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 79,
+    "fields": { "name": "Grove", "abbreviation": "GRV" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 80,
+    "fields": { "name": "Groves", "abbreviation": "GRVS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 81,
+    "fields": { "name": "Harbor", "abbreviation": "HBR" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 82,
+    "fields": { "name": "Harbors", "abbreviation": "HBRS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 83,
+    "fields": { "name": "Haven", "abbreviation": "HVN" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 84,
+    "fields": { "name": "Heights", "abbreviation": "HTS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 85,
+    "fields": { "name": "Highway", "abbreviation": "HWY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 86,
+    "fields": { "name": "Hill", "abbreviation": "HL" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 87,
+    "fields": { "name": "Hills", "abbreviation": "HLS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 88,
+    "fields": { "name": "Hollow", "abbreviation": "HOLW" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 89,
+    "fields": { "name": "Inlet", "abbreviation": "INLT" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 90,
+    "fields": { "name": "Island", "abbreviation": "IS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 91,
+    "fields": { "name": "Islands", "abbreviation": "ISS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 92,
+    "fields": { "name": "Isle", "abbreviation": "ISLE" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 93,
+    "fields": { "name": "Junction", "abbreviation": "JCT" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 94,
+    "fields": { "name": "Junctions", "abbreviation": "JCTS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 95,
+    "fields": { "name": "Key", "abbreviation": "KY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 96,
+    "fields": { "name": "Keys", "abbreviation": "KYS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 97,
+    "fields": { "name": "Knoll", "abbreviation": "KNL " }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 98,
+    "fields": { "name": "Knolls", "abbreviation": "KNLS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 99,
+    "fields": { "name": "Lake", "abbreviation": "LK" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 100,
+    "fields": { "name": "Lakes", "abbreviation": "LKS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 101,
+    "fields": { "name": "Land", "abbreviation": "LAND" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 102,
+    "fields": { "name": "Landing", "abbreviation": "LNDG" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 103,
+    "fields": { "name": "Lane", "abbreviation": "LN" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 104,
+    "fields": { "name": "Light", "abbreviation": "LGT" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 105,
+    "fields": { "name": "Lights", "abbreviation": "LGTS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 106,
+    "fields": { "name": "Loaf", "abbreviation": "LF" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 107,
+    "fields": { "name": "Lock", "abbreviation": "LCK" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 108,
+    "fields": { "name": "Locks", "abbreviation": "LCKS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 109,
+    "fields": { "name": "Lodge", "abbreviation": "LDG" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 110,
+    "fields": { "name": "Loop", "abbreviation": "LOOP" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 111,
+    "fields": { "name": "Mall", "abbreviation": "MALL" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 112,
+    "fields": { "name": "Manor", "abbreviation": "MNR" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 113,
+    "fields": { "name": "Manors", "abbreviation": "MNRS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 114,
+    "fields": { "name": "Meadow", "abbreviation": "MDW" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 115,
+    "fields": { "name": "Meadows", "abbreviation": "MDWS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 116,
+    "fields": { "name": "Mews", "abbreviation": "MEWS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 117,
+    "fields": { "name": "Mill", "abbreviation": "ML" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 118,
+    "fields": { "name": "Mills", "abbreviation": "MLS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 119,
+    "fields": { "name": "Mission", "abbreviation": "MSN" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 120,
+    "fields": { "name": "Motorway", "abbreviation": "MTWY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 121,
+    "fields": { "name": "Mount", "abbreviation": "MT" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 122,
+    "fields": { "name": "Mountain", "abbreviation": "MTN" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 123,
+    "fields": { "name": "Mountains", "abbreviation": "MTNS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 124,
+    "fields": { "name": "Neck", "abbreviation": "NCK" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 125,
+    "fields": { "name": "Orchard", "abbreviation": "ORCH" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 126,
+    "fields": { "name": "Oval", "abbreviation": "OVAL" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 127,
+    "fields": { "name": "Overpass", "abbreviation": "OPAS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 128,
+    "fields": { "name": "Park", "abbreviation": "PARK" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 129,
+    "fields": { "name": "Parks", "abbreviation": "PARK" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 130,
+    "fields": { "name": "Parkway", "abbreviation": "PKWY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 131,
+    "fields": { "name": "Parkways", "abbreviation": "PKWY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 132,
+    "fields": { "name": "Pass", "abbreviation": "PASS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 133,
+    "fields": { "name": "Passage", "abbreviation": "PSGE" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 134,
+    "fields": { "name": "Path", "abbreviation": "PATH" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 135,
+    "fields": { "name": "Pike", "abbreviation": "PIKE" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 136,
+    "fields": { "name": "Pine", "abbreviation": "PNE" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 137,
+    "fields": { "name": "Pines", "abbreviation": "PNES" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 138,
+    "fields": { "name": "Place", "abbreviation": "PL" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 139,
+    "fields": { "name": "Plain", "abbreviation": "PLN" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 140,
+    "fields": { "name": "Plains", "abbreviation": "PLNS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 141,
+    "fields": { "name": "Plaza", "abbreviation": "PLZ" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 142,
+    "fields": { "name": "Point", "abbreviation": "PT" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 143,
+    "fields": { "name": "Points", "abbreviation": "PTS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 144,
+    "fields": { "name": "Port", "abbreviation": "PRT" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 145,
+    "fields": { "name": "Ports", "abbreviation": "PRTS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 146,
+    "fields": { "name": "Prairie", "abbreviation": "PR" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 147,
+    "fields": { "name": "Radial", "abbreviation": "RADL" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 148,
+    "fields": { "name": "Ramp", "abbreviation": "RAMP" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 149,
+    "fields": { "name": "Ranch", "abbreviation": "RNCH" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 150,
+    "fields": { "name": "Rapid", "abbreviation": "RPD" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 151,
+    "fields": { "name": "Rapids", "abbreviation": "RPDS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 152,
+    "fields": { "name": "Rest", "abbreviation": "RST" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 153,
+    "fields": { "name": "Ridge", "abbreviation": "RDG" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 154,
+    "fields": { "name": "Ridges", "abbreviation": "RDGS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 155,
+    "fields": { "name": "River", "abbreviation": "RIV" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 156,
+    "fields": { "name": "Road", "abbreviation": "RD" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 157,
+    "fields": { "name": "Roads", "abbreviation": "RDS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 158,
+    "fields": { "name": "Route", "abbreviation": "RTE" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 159,
+    "fields": { "name": "Row", "abbreviation": "ROW" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 160,
+    "fields": { "name": "Rue", "abbreviation": "RUE" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 161,
+    "fields": { "name": "Run", "abbreviation": "RUN" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 162,
+    "fields": { "name": "Shoal", "abbreviation": "SHL" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 163,
+    "fields": { "name": "Shoals", "abbreviation": "SHLS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 164,
+    "fields": { "name": "Shore", "abbreviation": "SHR" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 165,
+    "fields": { "name": "Shores", "abbreviation": "SHRS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 166,
+    "fields": { "name": "Skyway", "abbreviation": "SKWY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 167,
+    "fields": { "name": "Spring", "abbreviation": "SPG" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 168,
+    "fields": { "name": "Springs", "abbreviation": "SPGS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 169,
+    "fields": { "name": "Spur", "abbreviation": "SPUR" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 170,
+    "fields": { "name": "Spurs", "abbreviation": "SPUR" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 171,
+    "fields": { "name": "Square", "abbreviation": "SQ" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 172,
+    "fields": { "name": "Squares", "abbreviation": "SQS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 173,
+    "fields": { "name": "Station", "abbreviation": "STA" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 174,
+    "fields": { "name": "Stravenue", "abbreviation": "STRA" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 175,
+    "fields": { "name": "Stream", "abbreviation": "STRM" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 176,
+    "fields": { "name": "Street", "abbreviation": "ST" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 177,
+    "fields": { "name": "Streets", "abbreviation": "STS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 178,
+    "fields": { "name": "Summit", "abbreviation": "SMT" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 179,
+    "fields": { "name": "Terrace", "abbreviation": "TER" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 180,
+    "fields": { "name": "Throughway", "abbreviation": "TRWY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 181,
+    "fields": { "name": "Trace", "abbreviation": "TRCE" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 182,
+    "fields": { "name": "Track", "abbreviation": "TRAK" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 183,
+    "fields": { "name": "Trafficway", "abbreviation": "TRFY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 184,
+    "fields": { "name": "Trail", "abbreviation": "TRL" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 185,
+    "fields": { "name": "Trailer", "abbreviation": "TRLR" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 186,
+    "fields": { "name": "Tunnel", "abbreviation": "TUNL" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 187,
+    "fields": { "name": "Turnpike", "abbreviation": "TPKE" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 188,
+    "fields": { "name": "Underpass", "abbreviation": "UPAS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 189,
+    "fields": { "name": "Union", "abbreviation": "UN" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 190,
+    "fields": { "name": "Unions", "abbreviation": "UNS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 190,
+    "fields": { "name": "Valley", "abbreviation": "VLY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 191,
+    "fields": { "name": "Valleys", "abbreviation": "VLYS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 192,
+    "fields": { "name": "Viaduct", "abbreviation": "VIA" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 193,
+    "fields": { "name": "View", "abbreviation": "VW" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 194,
+    "fields": { "name": "Views", "abbreviation": "VWS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 195,
+    "fields": { "name": "Village", "abbreviation": "VLG" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 196,
+    "fields": { "name": "Villages", "abbreviation": "VLGS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 197,
+    "fields": { "name": "Ville", "abbreviation": "VL" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 198,
+    "fields": { "name": "Vista", "abbreviation": "VIS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 199,
+    "fields": { "name": "Walk", "abbreviation": "WALK" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 200,
+    "fields": { "name": "Walks", "abbreviation": "WALK" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 201,
+    "fields": { "name": "Wall", "abbreviation": "WALL" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 202,
+    "fields": { "name": "Way", "abbreviation": "WAY" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 203,
+    "fields": { "name": "Ways", "abbreviation": "WAYS" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 204,
+    "fields": { "name": "Well", "abbreviation": "WL" }
+  },
+  {
+    "model": "location.StreetType",
+    "pk": 205,
+    "fields": { "name": "Wells", "abbreviation": "WLS" }
+  }
+]

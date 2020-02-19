@@ -1,0 +1,13 @@
+[
+	{
+		"model": "location.Country",
+		"pk": "1",
+		"fields": {
+			"name": "Spain",
+			"alpha2": "ES",
+			"alpha3": "ESP",
+			"numeric_code": 724,
+			"telephone_prefix": 34
+		}
+	}
+]

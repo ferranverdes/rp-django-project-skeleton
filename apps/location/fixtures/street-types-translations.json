@@ -1,0 +1,4122 @@
+[
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 1,
+    "fields": {
+      "base_street_type": 1,
+      "translated_to": 2,
+      "name": "Callej\u00f3n",
+      "abbreviation": "ALY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 2,
+    "fields": {
+      "base_street_type": 2,
+      "translated_to": 2,
+      "name": "Anex",
+      "abbreviation": "ANX"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 3,
+    "fields": {
+      "base_street_type": 3,
+      "translated_to": 2,
+      "name": "Arcada",
+      "abbreviation": "ARC"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 4,
+    "fields": {
+      "base_street_type": 4,
+      "translated_to": 2,
+      "name": "Avenida",
+      "abbreviation": "AVE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 5,
+    "fields": {
+      "base_street_type": 5,
+      "translated_to": 2,
+      "name": "Brazo pantanoso",
+      "abbreviation": "BYU"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 6,
+    "fields": {
+      "base_street_type": 6,
+      "translated_to": 2,
+      "name": "Playa",
+      "abbreviation": "BCH"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 7,
+    "fields": {
+      "base_street_type": 7,
+      "translated_to": 2,
+      "name": "Curva",
+      "abbreviation": "BND"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 8,
+    "fields": {
+      "base_street_type": 8,
+      "translated_to": 2,
+      "name": "Bluff",
+      "abbreviation": "BLF"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 9,
+    "fields": {
+      "base_street_type": 9,
+      "translated_to": 2,
+      "name": "Bluffs",
+      "abbreviation": "BLFS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 10,
+    "fields": {
+      "base_street_type": 10,
+      "translated_to": 2,
+      "name": "Fondo",
+      "abbreviation": "BTM"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 11,
+    "fields": {
+      "base_street_type": 11,
+      "translated_to": 2,
+      "name": "Bulevar",
+      "abbreviation": "BLVD"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 12,
+    "fields": {
+      "base_street_type": 12,
+      "translated_to": 2,
+      "name": "Rama",
+      "abbreviation": "BR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 13,
+    "fields": {
+      "base_street_type": 13,
+      "translated_to": 2,
+      "name": "Puente",
+      "abbreviation": "BRG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 14,
+    "fields": {
+      "base_street_type": 14,
+      "translated_to": 2,
+      "name": "Arroyo",
+      "abbreviation": "BRK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 15,
+    "fields": {
+      "base_street_type": 15,
+      "translated_to": 2,
+      "name": "Arroyos",
+      "abbreviation": "BRKS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 16,
+    "fields": {
+      "base_street_type": 16,
+      "translated_to": 2,
+      "name": "Burgo",
+      "abbreviation": "BG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 17,
+    "fields": {
+      "base_street_type": 17,
+      "translated_to": 2,
+      "name": "Burgs",
+      "abbreviation": "BGS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 18,
+    "fields": {
+      "base_street_type": 18,
+      "translated_to": 2,
+      "name": "Derivaci\u00f3n",
+      "abbreviation": "BYP"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 19,
+    "fields": {
+      "base_street_type": 19,
+      "translated_to": 2,
+      "name": "Acampar",
+      "abbreviation": "CP"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 20,
+    "fields": {
+      "base_street_type": 20,
+      "translated_to": 2,
+      "name": "Ca\u00f1\u00f3n",
+      "abbreviation": "CYN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 21,
+    "fields": {
+      "base_street_type": 21,
+      "translated_to": 2,
+      "name": "Capa",
+      "abbreviation": "CPE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 22,
+    "fields": {
+      "base_street_type": 22,
+      "translated_to": 2,
+      "name": "Calzada elevada",
+      "abbreviation": "CSWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 23,
+    "fields": {
+      "base_street_type": 23,
+      "translated_to": 2,
+      "name": "Centrar",
+      "abbreviation": "CTR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 24,
+    "fields": {
+      "base_street_type": 24,
+      "translated_to": 2,
+      "name": "Centros",
+      "abbreviation": "CTRS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 25,
+    "fields": {
+      "base_street_type": 25,
+      "translated_to": 2,
+      "name": "Circulo",
+      "abbreviation": "CIR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 26,
+    "fields": {
+      "base_street_type": 26,
+      "translated_to": 2,
+      "name": "C\u00edrculos",
+      "abbreviation": "CIRS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 27,
+    "fields": {
+      "base_street_type": 27,
+      "translated_to": 2,
+      "name": "Acantilado",
+      "abbreviation": "CLF"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 28,
+    "fields": {
+      "base_street_type": 28,
+      "translated_to": 2,
+      "name": "Acantilados",
+      "abbreviation": "CLFS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 29,
+    "fields": {
+      "base_street_type": 29,
+      "translated_to": 2,
+      "name": "Club",
+      "abbreviation": "CLB"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 30,
+    "fields": {
+      "base_street_type": 30,
+      "translated_to": 2,
+      "name": "Com\u00fan",
+      "abbreviation": "CMN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 31,
+    "fields": {
+      "base_street_type": 31,
+      "translated_to": 2,
+      "name": "Los comunes",
+      "abbreviation": "CMNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 32,
+    "fields": {
+      "base_street_type": 32,
+      "translated_to": 2,
+      "name": "Esquina",
+      "abbreviation": "COR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 33,
+    "fields": {
+      "base_street_type": 33,
+      "translated_to": 2,
+      "name": "Esquinas",
+      "abbreviation": "CORS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 34,
+    "fields": {
+      "base_street_type": 34,
+      "translated_to": 2,
+      "name": "Curso",
+      "abbreviation": "CRSE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 35,
+    "fields": {
+      "base_street_type": 35,
+      "translated_to": 2,
+      "name": "Corte",
+      "abbreviation": "CT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 36,
+    "fields": {
+      "base_street_type": 36,
+      "translated_to": 2,
+      "name": "Tribunales",
+      "abbreviation": "CTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 37,
+    "fields": {
+      "base_street_type": 37,
+      "translated_to": 2,
+      "name": "Ensenada",
+      "abbreviation": "CV"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 38,
+    "fields": {
+      "base_street_type": 38,
+      "translated_to": 2,
+      "name": "Calas",
+      "abbreviation": "CVS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 39,
+    "fields": {
+      "base_street_type": 39,
+      "translated_to": 2,
+      "name": "Arroyo",
+      "abbreviation": "CRK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 40,
+    "fields": {
+      "base_street_type": 40,
+      "translated_to": 2,
+      "name": "Creciente",
+      "abbreviation": "CRES"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 41,
+    "fields": {
+      "base_street_type": 41,
+      "translated_to": 2,
+      "name": "Cresta",
+      "abbreviation": "CRST"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 42,
+    "fields": {
+      "base_street_type": 42,
+      "translated_to": 2,
+      "name": "Cruce",
+      "abbreviation": "XING"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 43,
+    "fields": {
+      "base_street_type": 43,
+      "translated_to": 2,
+      "name": "Cruce de caminos",
+      "abbreviation": "XRD"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 44,
+    "fields": {
+      "base_street_type": 44,
+      "translated_to": 2,
+      "name": "Cruce",
+      "abbreviation": "XRDS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 45,
+    "fields": {
+      "base_street_type": 45,
+      "translated_to": 2,
+      "name": "Curva",
+      "abbreviation": "CURV"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 46,
+    "fields": {
+      "base_street_type": 46,
+      "translated_to": 2,
+      "name": "Valle",
+      "abbreviation": "DL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 47,
+    "fields": {
+      "base_street_type": 47,
+      "translated_to": 2,
+      "name": "Represa",
+      "abbreviation": "DM"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 48,
+    "fields": {
+      "base_street_type": 48,
+      "translated_to": 2,
+      "name": "Dividir",
+      "abbreviation": "DV"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 49,
+    "fields": {
+      "base_street_type": 49,
+      "translated_to": 2,
+      "name": "Conducir",
+      "abbreviation": "DR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 50,
+    "fields": {
+      "base_street_type": 50,
+      "translated_to": 2,
+      "name": "Unidades",
+      "abbreviation": "DRS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 51,
+    "fields": {
+      "base_street_type": 51,
+      "translated_to": 2,
+      "name": "Inmuebles",
+      "abbreviation": "EST"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 52,
+    "fields": {
+      "base_street_type": 52,
+      "translated_to": 2,
+      "name": "Estates",
+      "abbreviation": "ESTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 53,
+    "fields": {
+      "base_street_type": 53,
+      "translated_to": 2,
+      "name": "Autopista",
+      "abbreviation": "EXPY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 54,
+    "fields": {
+      "base_street_type": 54,
+      "translated_to": 2,
+      "name": "Extensi\u00f3n",
+      "abbreviation": "EXT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 55,
+    "fields": {
+      "base_street_type": 55,
+      "translated_to": 2,
+      "name": "Extensiones",
+      "abbreviation": "EXTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 56,
+    "fields": {
+      "base_street_type": 56,
+      "translated_to": 2,
+      "name": "Oto\u00f1o",
+      "abbreviation": "FALL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 57,
+    "fields": {
+      "base_street_type": 57,
+      "translated_to": 2,
+      "name": "Ca\u00eddas",
+      "abbreviation": "FLS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 58,
+    "fields": {
+      "base_street_type": 58,
+      "translated_to": 2,
+      "name": "Transportar",
+      "abbreviation": "FRY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 59,
+    "fields": {
+      "base_street_type": 59,
+      "translated_to": 2,
+      "name": "Campo",
+      "abbreviation": "FLD"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 60,
+    "fields": {
+      "base_street_type": 60,
+      "translated_to": 2,
+      "name": "Campos",
+      "abbreviation": "FLDS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 61,
+    "fields": {
+      "base_street_type": 61,
+      "translated_to": 2,
+      "name": "Plano",
+      "abbreviation": "FLT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 62,
+    "fields": {
+      "base_street_type": 62,
+      "translated_to": 2,
+      "name": "Pisos",
+      "abbreviation": "FLTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 63,
+    "fields": {
+      "base_street_type": 63,
+      "translated_to": 2,
+      "name": "Vado",
+      "abbreviation": "FRD"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 64,
+    "fields": {
+      "base_street_type": 64,
+      "translated_to": 2,
+      "name": "Vados",
+      "abbreviation": "FRDS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 65,
+    "fields": {
+      "base_street_type": 65,
+      "translated_to": 2,
+      "name": "Bosque",
+      "abbreviation": "FRST"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 66,
+    "fields": {
+      "base_street_type": 66,
+      "translated_to": 2,
+      "name": "Fragua",
+      "abbreviation": "FRG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 67,
+    "fields": {
+      "base_street_type": 67,
+      "translated_to": 2,
+      "name": "Forges",
+      "abbreviation": "FRGS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 68,
+    "fields": {
+      "base_street_type": 68,
+      "translated_to": 2,
+      "name": "Tenedor",
+      "abbreviation": "FRK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 69,
+    "fields": {
+      "base_street_type": 69,
+      "translated_to": 2,
+      "name": "Tenedores",
+      "abbreviation": "FRKS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 70,
+    "fields": {
+      "base_street_type": 70,
+      "translated_to": 2,
+      "name": "Fuerte",
+      "abbreviation": "FT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 71,
+    "fields": {
+      "base_street_type": 71,
+      "translated_to": 2,
+      "name": "Autopista",
+      "abbreviation": "FWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 72,
+    "fields": {
+      "base_street_type": 72,
+      "translated_to": 2,
+      "name": "Jard\u00edn",
+      "abbreviation": "GDN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 73,
+    "fields": {
+      "base_street_type": 73,
+      "translated_to": 2,
+      "name": "Jardines",
+      "abbreviation": "GDNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 74,
+    "fields": {
+      "base_street_type": 74,
+      "translated_to": 2,
+      "name": "Puerta",
+      "abbreviation": "GTWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 75,
+    "fields": {
+      "base_street_type": 75,
+      "translated_to": 2,
+      "name": "Ca\u00f1ada",
+      "abbreviation": "GLN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 76,
+    "fields": {
+      "base_street_type": 76,
+      "translated_to": 2,
+      "name": "Glens",
+      "abbreviation": "GLNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 77,
+    "fields": {
+      "base_street_type": 77,
+      "translated_to": 2,
+      "name": "Verde",
+      "abbreviation": "GRN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 78,
+    "fields": {
+      "base_street_type": 78,
+      "translated_to": 2,
+      "name": "Verduras",
+      "abbreviation": "GRNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 79,
+    "fields": {
+      "base_street_type": 79,
+      "translated_to": 2,
+      "name": "Arboleda",
+      "abbreviation": "GRV"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 80,
+    "fields": {
+      "base_street_type": 80,
+      "translated_to": 2,
+      "name": "Groves",
+      "abbreviation": "GRVS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 81,
+    "fields": {
+      "base_street_type": 81,
+      "translated_to": 2,
+      "name": "Puerto",
+      "abbreviation": "HBR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 82,
+    "fields": {
+      "base_street_type": 82,
+      "translated_to": 2,
+      "name": "Puertos",
+      "abbreviation": "HBRS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 83,
+    "fields": {
+      "base_street_type": 83,
+      "translated_to": 2,
+      "name": "Refugio",
+      "abbreviation": "HVN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 84,
+    "fields": {
+      "base_street_type": 84,
+      "translated_to": 2,
+      "name": "Alturas",
+      "abbreviation": "HTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 85,
+    "fields": {
+      "base_street_type": 85,
+      "translated_to": 2,
+      "name": "Autopista",
+      "abbreviation": "HWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 86,
+    "fields": {
+      "base_street_type": 86,
+      "translated_to": 2,
+      "name": "Colina",
+      "abbreviation": "HL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 87,
+    "fields": {
+      "base_street_type": 87,
+      "translated_to": 2,
+      "name": "Hills",
+      "abbreviation": "HLS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 88,
+    "fields": {
+      "base_street_type": 88,
+      "translated_to": 2,
+      "name": "Hueco",
+      "abbreviation": "HOLW"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 89,
+    "fields": {
+      "base_street_type": 89,
+      "translated_to": 2,
+      "name": "Entrada",
+      "abbreviation": "INLT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 90,
+    "fields": {
+      "base_street_type": 90,
+      "translated_to": 2,
+      "name": "Isla",
+      "abbreviation": "IS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 91,
+    "fields": {
+      "base_street_type": 91,
+      "translated_to": 2,
+      "name": "Islas",
+      "abbreviation": "ISS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 92,
+    "fields": {
+      "base_street_type": 92,
+      "translated_to": 2,
+      "name": "Isla",
+      "abbreviation": "ISLE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 93,
+    "fields": {
+      "base_street_type": 93,
+      "translated_to": 2,
+      "name": "Uni\u00f3n",
+      "abbreviation": "JCT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 94,
+    "fields": {
+      "base_street_type": 94,
+      "translated_to": 2,
+      "name": "Uniones",
+      "abbreviation": "JCTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 95,
+    "fields": {
+      "base_street_type": 95,
+      "translated_to": 2,
+      "name": "Llave",
+      "abbreviation": "KY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 96,
+    "fields": {
+      "base_street_type": 96,
+      "translated_to": 2,
+      "name": "Llaves",
+      "abbreviation": "KYS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 97,
+    "fields": {
+      "base_street_type": 97,
+      "translated_to": 2,
+      "name": "Loma",
+      "abbreviation": "KNL "
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 98,
+    "fields": {
+      "base_street_type": 98,
+      "translated_to": 2,
+      "name": "Knolls",
+      "abbreviation": "KNLS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 99,
+    "fields": {
+      "base_street_type": 99,
+      "translated_to": 2,
+      "name": "Lago",
+      "abbreviation": "LK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 100,
+    "fields": {
+      "base_street_type": 100,
+      "translated_to": 2,
+      "name": "Lagos",
+      "abbreviation": "LKS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 101,
+    "fields": {
+      "base_street_type": 101,
+      "translated_to": 2,
+      "name": "Tierra",
+      "abbreviation": "LAND"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 102,
+    "fields": {
+      "base_street_type": 102,
+      "translated_to": 2,
+      "name": "Aterrizaje",
+      "abbreviation": "LNDG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 103,
+    "fields": {
+      "base_street_type": 103,
+      "translated_to": 2,
+      "name": "Carril",
+      "abbreviation": "LN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 104,
+    "fields": {
+      "base_street_type": 104,
+      "translated_to": 2,
+      "name": "Ligero",
+      "abbreviation": "LGT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 105,
+    "fields": {
+      "base_street_type": 105,
+      "translated_to": 2,
+      "name": "Luces",
+      "abbreviation": "LGTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 106,
+    "fields": {
+      "base_street_type": 106,
+      "translated_to": 2,
+      "name": "Pan",
+      "abbreviation": "LF"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 107,
+    "fields": {
+      "base_street_type": 107,
+      "translated_to": 2,
+      "name": "Bloquear",
+      "abbreviation": "LCK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 108,
+    "fields": {
+      "base_street_type": 108,
+      "translated_to": 2,
+      "name": "Cerraduras",
+      "abbreviation": "LCKS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 109,
+    "fields": {
+      "base_street_type": 109,
+      "translated_to": 2,
+      "name": "Presentar",
+      "abbreviation": "LDG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 110,
+    "fields": {
+      "base_street_type": 110,
+      "translated_to": 2,
+      "name": "Lazo",
+      "abbreviation": "LOOP"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 111,
+    "fields": {
+      "base_street_type": 111,
+      "translated_to": 2,
+      "name": "Centro comercial",
+      "abbreviation": "MALL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 112,
+    "fields": {
+      "base_street_type": 112,
+      "translated_to": 2,
+      "name": "Se\u00f1or\u00edo",
+      "abbreviation": "MNR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 113,
+    "fields": {
+      "base_street_type": 113,
+      "translated_to": 2,
+      "name": "Manors",
+      "abbreviation": "MNRS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 114,
+    "fields": {
+      "base_street_type": 114,
+      "translated_to": 2,
+      "name": "Prado",
+      "abbreviation": "MDW"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 115,
+    "fields": {
+      "base_street_type": 115,
+      "translated_to": 2,
+      "name": "Meadows",
+      "abbreviation": "MDWS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 116,
+    "fields": {
+      "base_street_type": 116,
+      "translated_to": 2,
+      "name": "Caballeriza",
+      "abbreviation": "MEWS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 117,
+    "fields": {
+      "base_street_type": 117,
+      "translated_to": 2,
+      "name": "Molino",
+      "abbreviation": "ML"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 118,
+    "fields": {
+      "base_street_type": 118,
+      "translated_to": 2,
+      "name": "Mills",
+      "abbreviation": "MLS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 119,
+    "fields": {
+      "base_street_type": 119,
+      "translated_to": 2,
+      "name": "Misi\u00f3n",
+      "abbreviation": "MSN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 120,
+    "fields": {
+      "base_street_type": 120,
+      "translated_to": 2,
+      "name": "Autopista",
+      "abbreviation": "MTWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 121,
+    "fields": {
+      "base_street_type": 121,
+      "translated_to": 2,
+      "name": "Montar",
+      "abbreviation": "MT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 122,
+    "fields": {
+      "base_street_type": 122,
+      "translated_to": 2,
+      "name": "Monta\u00f1a",
+      "abbreviation": "MTN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 123,
+    "fields": {
+      "base_street_type": 123,
+      "translated_to": 2,
+      "name": "Monta\u00f1as",
+      "abbreviation": "MTNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 124,
+    "fields": {
+      "base_street_type": 124,
+      "translated_to": 2,
+      "name": "Cuello",
+      "abbreviation": "NCK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 125,
+    "fields": {
+      "base_street_type": 125,
+      "translated_to": 2,
+      "name": "Huerta",
+      "abbreviation": "ORCH"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 126,
+    "fields": {
+      "base_street_type": 126,
+      "translated_to": 2,
+      "name": "Oval",
+      "abbreviation": "OVAL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 127,
+    "fields": {
+      "base_street_type": 127,
+      "translated_to": 2,
+      "name": "Paso superior",
+      "abbreviation": "OPAS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 128,
+    "fields": {
+      "base_street_type": 128,
+      "translated_to": 2,
+      "name": "Parque",
+      "abbreviation": "PARK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 129,
+    "fields": {
+      "base_street_type": 129,
+      "translated_to": 2,
+      "name": "Parques",
+      "abbreviation": "PARK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 130,
+    "fields": {
+      "base_street_type": 130,
+      "translated_to": 2,
+      "name": "Parkway",
+      "abbreviation": "PKWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 131,
+    "fields": {
+      "base_street_type": 131,
+      "translated_to": 2,
+      "name": "Parkways",
+      "abbreviation": "PKWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 132,
+    "fields": {
+      "base_street_type": 132,
+      "translated_to": 2,
+      "name": "Pasar",
+      "abbreviation": "PASS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 133,
+    "fields": {
+      "base_street_type": 133,
+      "translated_to": 2,
+      "name": "Paso",
+      "abbreviation": "PSGE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 134,
+    "fields": {
+      "base_street_type": 134,
+      "translated_to": 2,
+      "name": "Camino",
+      "abbreviation": "PATH"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 135,
+    "fields": {
+      "base_street_type": 135,
+      "translated_to": 2,
+      "name": "Lucio",
+      "abbreviation": "PIKE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 136,
+    "fields": {
+      "base_street_type": 136,
+      "translated_to": 2,
+      "name": "Pino",
+      "abbreviation": "PNE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 137,
+    "fields": {
+      "base_street_type": 137,
+      "translated_to": 2,
+      "name": "Pines",
+      "abbreviation": "PNES"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 138,
+    "fields": {
+      "base_street_type": 138,
+      "translated_to": 2,
+      "name": "Sitio",
+      "abbreviation": "PL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 139,
+    "fields": {
+      "base_street_type": 139,
+      "translated_to": 2,
+      "name": "Llanura",
+      "abbreviation": "PLN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 140,
+    "fields": {
+      "base_street_type": 140,
+      "translated_to": 2,
+      "name": "Llanuras",
+      "abbreviation": "PLNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 141,
+    "fields": {
+      "base_street_type": 141,
+      "translated_to": 2,
+      "name": "Plaza",
+      "abbreviation": "PLZ"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 142,
+    "fields": {
+      "base_street_type": 142,
+      "translated_to": 2,
+      "name": "Punto",
+      "abbreviation": "PT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 143,
+    "fields": {
+      "base_street_type": 143,
+      "translated_to": 2,
+      "name": "Puntos",
+      "abbreviation": "PTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 144,
+    "fields": {
+      "base_street_type": 144,
+      "translated_to": 2,
+      "name": "Puerto",
+      "abbreviation": "PRT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 145,
+    "fields": {
+      "base_street_type": 145,
+      "translated_to": 2,
+      "name": "Puertos",
+      "abbreviation": "PRTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 146,
+    "fields": {
+      "base_street_type": 146,
+      "translated_to": 2,
+      "name": "Pradera",
+      "abbreviation": "PR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 147,
+    "fields": {
+      "base_street_type": 147,
+      "translated_to": 2,
+      "name": "Radial",
+      "abbreviation": "RADL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 148,
+    "fields": {
+      "base_street_type": 148,
+      "translated_to": 2,
+      "name": "Rampa",
+      "abbreviation": "RAMP"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 149,
+    "fields": {
+      "base_street_type": 149,
+      "translated_to": 2,
+      "name": "Rancho",
+      "abbreviation": "RNCH"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 150,
+    "fields": {
+      "base_street_type": 150,
+      "translated_to": 2,
+      "name": "R\u00e1pido",
+      "abbreviation": "RPD"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 151,
+    "fields": {
+      "base_street_type": 151,
+      "translated_to": 2,
+      "name": "R\u00e1pidos",
+      "abbreviation": "RPDS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 152,
+    "fields": {
+      "base_street_type": 152,
+      "translated_to": 2,
+      "name": "Descanso",
+      "abbreviation": "RST"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 153,
+    "fields": {
+      "base_street_type": 153,
+      "translated_to": 2,
+      "name": "Cresta",
+      "abbreviation": "RDG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 154,
+    "fields": {
+      "base_street_type": 154,
+      "translated_to": 2,
+      "name": "Crestas",
+      "abbreviation": "RDGS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 155,
+    "fields": {
+      "base_street_type": 155,
+      "translated_to": 2,
+      "name": "R\u00edo",
+      "abbreviation": "RIV"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 156,
+    "fields": {
+      "base_street_type": 156,
+      "translated_to": 2,
+      "name": "La carretera",
+      "abbreviation": "RD"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 157,
+    "fields": {
+      "base_street_type": 157,
+      "translated_to": 2,
+      "name": "Carreteras",
+      "abbreviation": "RDS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 158,
+    "fields": {
+      "base_street_type": 158,
+      "translated_to": 2,
+      "name": "Ruta",
+      "abbreviation": "RTE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 159,
+    "fields": {
+      "base_street_type": 159,
+      "translated_to": 2,
+      "name": "Fila",
+      "abbreviation": "ROW"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 160,
+    "fields": {
+      "base_street_type": 160,
+      "translated_to": 2,
+      "name": "Ruda",
+      "abbreviation": "RUE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 161,
+    "fields": {
+      "base_street_type": 161,
+      "translated_to": 2,
+      "name": "Correr",
+      "abbreviation": "RUN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 162,
+    "fields": {
+      "base_street_type": 162,
+      "translated_to": 2,
+      "name": "Banco",
+      "abbreviation": "SHL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 163,
+    "fields": {
+      "base_street_type": 163,
+      "translated_to": 2,
+      "name": "Shoals",
+      "abbreviation": "SHLS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 164,
+    "fields": {
+      "base_street_type": 164,
+      "translated_to": 2,
+      "name": "Apuntalar",
+      "abbreviation": "SHR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 165,
+    "fields": {
+      "base_street_type": 165,
+      "translated_to": 2,
+      "name": "Shores",
+      "abbreviation": "SHRS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 166,
+    "fields": {
+      "base_street_type": 166,
+      "translated_to": 2,
+      "name": "Ruta a\u00e9rea",
+      "abbreviation": "SKWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 167,
+    "fields": {
+      "base_street_type": 167,
+      "translated_to": 2,
+      "name": "Primavera",
+      "abbreviation": "SPG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 168,
+    "fields": {
+      "base_street_type": 168,
+      "translated_to": 2,
+      "name": "Muelles",
+      "abbreviation": "SPGS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 169,
+    "fields": {
+      "base_street_type": 169,
+      "translated_to": 2,
+      "name": "Estimular",
+      "abbreviation": "SPUR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 170,
+    "fields": {
+      "base_street_type": 170,
+      "translated_to": 2,
+      "name": "Espuelas",
+      "abbreviation": "SPUR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 171,
+    "fields": {
+      "base_street_type": 171,
+      "translated_to": 2,
+      "name": "Cuadrado",
+      "abbreviation": "SQ"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 172,
+    "fields": {
+      "base_street_type": 172,
+      "translated_to": 2,
+      "name": "Cuadr\u00edcula",
+      "abbreviation": "SQS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 173,
+    "fields": {
+      "base_street_type": 173,
+      "translated_to": 2,
+      "name": "Estaci\u00f3n",
+      "abbreviation": "STA"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 174,
+    "fields": {
+      "base_street_type": 174,
+      "translated_to": 2,
+      "name": "Stravenue",
+      "abbreviation": "STRA"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 175,
+    "fields": {
+      "base_street_type": 175,
+      "translated_to": 2,
+      "name": "Corriente",
+      "abbreviation": "STRM"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 176,
+    "fields": {
+      "base_street_type": 176,
+      "translated_to": 2,
+      "name": "Calle",
+      "abbreviation": "ST"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 177,
+    "fields": {
+      "base_street_type": 177,
+      "translated_to": 2,
+      "name": "Calles",
+      "abbreviation": "STS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 178,
+    "fields": {
+      "base_street_type": 178,
+      "translated_to": 2,
+      "name": "Cumbre",
+      "abbreviation": "SMT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 179,
+    "fields": {
+      "base_street_type": 179,
+      "translated_to": 2,
+      "name": "Terraza",
+      "abbreviation": "TER"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 180,
+    "fields": {
+      "base_street_type": 180,
+      "translated_to": 2,
+      "name": "Throughway",
+      "abbreviation": "TRWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 181,
+    "fields": {
+      "base_street_type": 181,
+      "translated_to": 2,
+      "name": "Rastro",
+      "abbreviation": "TRCE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 182,
+    "fields": {
+      "base_street_type": 182,
+      "translated_to": 2,
+      "name": "Pista",
+      "abbreviation": "TRAK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 183,
+    "fields": {
+      "base_street_type": 183,
+      "translated_to": 2,
+      "name": "Trafficway",
+      "abbreviation": "TRFY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 184,
+    "fields": {
+      "base_street_type": 184,
+      "translated_to": 2,
+      "name": "Sendero",
+      "abbreviation": "TRL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 185,
+    "fields": {
+      "base_street_type": 185,
+      "translated_to": 2,
+      "name": "Remolque",
+      "abbreviation": "TRLR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 186,
+    "fields": {
+      "base_street_type": 186,
+      "translated_to": 2,
+      "name": "T\u00fanel",
+      "abbreviation": "TUNL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 187,
+    "fields": {
+      "base_street_type": 187,
+      "translated_to": 2,
+      "name": "Autopista",
+      "abbreviation": "TPKE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 188,
+    "fields": {
+      "base_street_type": 188,
+      "translated_to": 2,
+      "name": "Paso inferior",
+      "abbreviation": "UPAS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 189,
+    "fields": {
+      "base_street_type": 189,
+      "translated_to": 2,
+      "name": "Uni\u00f3n",
+      "abbreviation": "UN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 190,
+    "fields": {
+      "base_street_type": 190,
+      "translated_to": 2,
+      "name": "Sindicatos",
+      "abbreviation": "UNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 190,
+    "fields": {
+      "base_street_type": 190,
+      "translated_to": 2,
+      "name": "Valle",
+      "abbreviation": "VLY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 191,
+    "fields": {
+      "base_street_type": 191,
+      "translated_to": 2,
+      "name": "Valles",
+      "abbreviation": "VLYS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 192,
+    "fields": {
+      "base_street_type": 192,
+      "translated_to": 2,
+      "name": "Viaducto",
+      "abbreviation": "VIA"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 193,
+    "fields": {
+      "base_street_type": 193,
+      "translated_to": 2,
+      "name": "Ver",
+      "abbreviation": "VW"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 194,
+    "fields": {
+      "base_street_type": 194,
+      "translated_to": 2,
+      "name": "Puntos de vista",
+      "abbreviation": "VWS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 195,
+    "fields": {
+      "base_street_type": 195,
+      "translated_to": 2,
+      "name": "Pueblo",
+      "abbreviation": "VLG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 196,
+    "fields": {
+      "base_street_type": 196,
+      "translated_to": 2,
+      "name": "Pueblos",
+      "abbreviation": "VLGS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 197,
+    "fields": {
+      "base_street_type": 197,
+      "translated_to": 2,
+      "name": "Ville",
+      "abbreviation": "VL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 198,
+    "fields": {
+      "base_street_type": 198,
+      "translated_to": 2,
+      "name": "Vista",
+      "abbreviation": "VIS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 199,
+    "fields": {
+      "base_street_type": 199,
+      "translated_to": 2,
+      "name": "Caminar",
+      "abbreviation": "WALK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 200,
+    "fields": {
+      "base_street_type": 200,
+      "translated_to": 2,
+      "name": "Camina",
+      "abbreviation": "WALK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 201,
+    "fields": {
+      "base_street_type": 201,
+      "translated_to": 2,
+      "name": "Pared",
+      "abbreviation": "WALL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 202,
+    "fields": {
+      "base_street_type": 202,
+      "translated_to": 2,
+      "name": "Camino",
+      "abbreviation": "WAY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 203,
+    "fields": {
+      "base_street_type": 203,
+      "translated_to": 2,
+      "name": "Formas",
+      "abbreviation": "WAYS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 204,
+    "fields": {
+      "base_street_type": 204,
+      "translated_to": 2,
+      "name": "Bien",
+      "abbreviation": "WL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 205,
+    "fields": {
+      "base_street_type": 205,
+      "translated_to": 2,
+      "name": "Wells",
+      "abbreviation": "WLS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 206,
+    "fields": {
+      "base_street_type": 1,
+      "translated_to": 3,
+      "name": "Carrer\u00f3",
+      "abbreviation": "ALY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 207,
+    "fields": {
+      "base_street_type": 2,
+      "translated_to": 3,
+      "name": "Anex",
+      "abbreviation": "ANX"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 208,
+    "fields": {
+      "base_street_type": 3,
+      "translated_to": 3,
+      "name": "Arcada",
+      "abbreviation": "ARC"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 209,
+    "fields": {
+      "base_street_type": 4,
+      "translated_to": 3,
+      "name": "Avinguda",
+      "abbreviation": "AVE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 210,
+    "fields": {
+      "base_street_type": 5,
+      "translated_to": 3,
+      "name": "Bra\u00e7 pantan\u00f3s",
+      "abbreviation": "BYU"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 211,
+    "fields": {
+      "base_street_type": 6,
+      "translated_to": 3,
+      "name": "Platja",
+      "abbreviation": "BCH"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 212,
+    "fields": {
+      "base_street_type": 7,
+      "translated_to": 3,
+      "name": "Rac\u00f3",
+      "abbreviation": "BND"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 213,
+    "fields": {
+      "base_street_type": 8,
+      "translated_to": 3,
+      "name": "Fanal",
+      "abbreviation": "BLF"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 214,
+    "fields": {
+      "base_street_type": 9,
+      "translated_to": 3,
+      "name": "Bluffs",
+      "abbreviation": "BLFS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 215,
+    "fields": {
+      "base_street_type": 10,
+      "translated_to": 3,
+      "name": "Fons",
+      "abbreviation": "BTM"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 216,
+    "fields": {
+      "base_street_type": 11,
+      "translated_to": 3,
+      "name": "Bulevard",
+      "abbreviation": "BLVD"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 217,
+    "fields": {
+      "base_street_type": 12,
+      "translated_to": 3,
+      "name": "Branca",
+      "abbreviation": "BR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 218,
+    "fields": {
+      "base_street_type": 13,
+      "translated_to": 3,
+      "name": "Pont",
+      "abbreviation": "BRG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 219,
+    "fields": {
+      "base_street_type": 14,
+      "translated_to": 3,
+      "name": "Rierol",
+      "abbreviation": "BRK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 220,
+    "fields": {
+      "base_street_type": 15,
+      "translated_to": 3,
+      "name": "Brooks",
+      "abbreviation": "BRKS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 221,
+    "fields": {
+      "base_street_type": 16,
+      "translated_to": 3,
+      "name": "Burg",
+      "abbreviation": "BG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 222,
+    "fields": {
+      "base_street_type": 17,
+      "translated_to": 3,
+      "name": "Burgs",
+      "abbreviation": "BGS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 223,
+    "fields": {
+      "base_street_type": 18,
+      "translated_to": 3,
+      "name": "Derivaci\u00f3",
+      "abbreviation": "BYP"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 224,
+    "fields": {
+      "base_street_type": 19,
+      "translated_to": 3,
+      "name": "Campament",
+      "abbreviation": "CP"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 225,
+    "fields": {
+      "base_street_type": 20,
+      "translated_to": 3,
+      "name": "Can\u00f3",
+      "abbreviation": "CYN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 226,
+    "fields": {
+      "base_street_type": 21,
+      "translated_to": 3,
+      "name": "Cop de m\u00e0",
+      "abbreviation": "CPE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 227,
+    "fields": {
+      "base_street_type": 22,
+      "translated_to": 3,
+      "name": "Cal\u00e7ada elevada",
+      "abbreviation": "CSWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 228,
+    "fields": {
+      "base_street_type": 23,
+      "translated_to": 3,
+      "name": "Centre",
+      "abbreviation": "CTR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 229,
+    "fields": {
+      "base_street_type": 24,
+      "translated_to": 3,
+      "name": "Centres",
+      "abbreviation": "CTRS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 230,
+    "fields": {
+      "base_street_type": 25,
+      "translated_to": 3,
+      "name": "Cercle",
+      "abbreviation": "CIR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 231,
+    "fields": {
+      "base_street_type": 26,
+      "translated_to": 3,
+      "name": "Cercles",
+      "abbreviation": "CIRS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 232,
+    "fields": {
+      "base_street_type": 27,
+      "translated_to": 3,
+      "name": "Penya-segat",
+      "abbreviation": "CLF"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 233,
+    "fields": {
+      "base_street_type": 28,
+      "translated_to": 3,
+      "name": "Penya-segats",
+      "abbreviation": "CLFS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 234,
+    "fields": {
+      "base_street_type": 29,
+      "translated_to": 3,
+      "name": "Club",
+      "abbreviation": "CLB"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 235,
+    "fields": {
+      "base_street_type": 30,
+      "translated_to": 3,
+      "name": "Comuna",
+      "abbreviation": "CMN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 236,
+    "fields": {
+      "base_street_type": 31,
+      "translated_to": 3,
+      "name": "Els comuns",
+      "abbreviation": "CMNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 237,
+    "fields": {
+      "base_street_type": 32,
+      "translated_to": 3,
+      "name": "Cantonada",
+      "abbreviation": "COR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 238,
+    "fields": {
+      "base_street_type": 33,
+      "translated_to": 3,
+      "name": "Cantonades",
+      "abbreviation": "CORS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 239,
+    "fields": {
+      "base_street_type": 34,
+      "translated_to": 3,
+      "name": "Curs",
+      "abbreviation": "CRSE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 240,
+    "fields": {
+      "base_street_type": 35,
+      "translated_to": 3,
+      "name": "Tall",
+      "abbreviation": "CT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 241,
+    "fields": {
+      "base_street_type": 36,
+      "translated_to": 3,
+      "name": "Tribunals",
+      "abbreviation": "CTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 242,
+    "fields": {
+      "base_street_type": 37,
+      "translated_to": 3,
+      "name": "Cala",
+      "abbreviation": "CV"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 243,
+    "fields": {
+      "base_street_type": 38,
+      "translated_to": 3,
+      "name": "Cales",
+      "abbreviation": "CVS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 244,
+    "fields": {
+      "base_street_type": 39,
+      "translated_to": 3,
+      "name": "Rierol",
+      "abbreviation": "CRK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 245,
+    "fields": {
+      "base_street_type": 40,
+      "translated_to": 3,
+      "name": "Creixent",
+      "abbreviation": "CRES"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 246,
+    "fields": {
+      "base_street_type": 41,
+      "translated_to": 3,
+      "name": "Cresta",
+      "abbreviation": "CRST"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 247,
+    "fields": {
+      "base_street_type": 42,
+      "translated_to": 3,
+      "name": "Encreuament",
+      "abbreviation": "XING"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 248,
+    "fields": {
+      "base_street_type": 43,
+      "translated_to": 3,
+      "name": "Encreuament de camins",
+      "abbreviation": "XRD"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 249,
+    "fields": {
+      "base_street_type": 44,
+      "translated_to": 3,
+      "name": "Cru\u00eflla",
+      "abbreviation": "XRDS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 250,
+    "fields": {
+      "base_street_type": 45,
+      "translated_to": 3,
+      "name": "Corba",
+      "abbreviation": "CURV"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 251,
+    "fields": {
+      "base_street_type": 46,
+      "translated_to": 3,
+      "name": "Vall",
+      "abbreviation": "DL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 252,
+    "fields": {
+      "base_street_type": 47,
+      "translated_to": 3,
+      "name": "Presa",
+      "abbreviation": "DM"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 253,
+    "fields": {
+      "base_street_type": 48,
+      "translated_to": 3,
+      "name": "Divis\u00f2ria",
+      "abbreviation": "DV"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 254,
+    "fields": {
+      "base_street_type": 49,
+      "translated_to": 3,
+      "name": "Conduir",
+      "abbreviation": "DR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 255,
+    "fields": {
+      "base_street_type": 50,
+      "translated_to": 3,
+      "name": "Unitats",
+      "abbreviation": "DRS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 256,
+    "fields": {
+      "base_street_type": 51,
+      "translated_to": 3,
+      "name": "Finca",
+      "abbreviation": "EST"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 257,
+    "fields": {
+      "base_street_type": 52,
+      "translated_to": 3,
+      "name": "Estates",
+      "abbreviation": "ESTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 258,
+    "fields": {
+      "base_street_type": 53,
+      "translated_to": 3,
+      "name": "Autopista",
+      "abbreviation": "EXPY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 259,
+    "fields": {
+      "base_street_type": 54,
+      "translated_to": 3,
+      "name": "Extensi\u00f3",
+      "abbreviation": "EXT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 260,
+    "fields": {
+      "base_street_type": 55,
+      "translated_to": 3,
+      "name": "Extensions",
+      "abbreviation": "EXTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 261,
+    "fields": {
+      "base_street_type": 56,
+      "translated_to": 3,
+      "name": "Caure",
+      "abbreviation": "FALL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 262,
+    "fields": {
+      "base_street_type": 57,
+      "translated_to": 3,
+      "name": "Falls",
+      "abbreviation": "FLS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 263,
+    "fields": {
+      "base_street_type": 58,
+      "translated_to": 3,
+      "name": "Transbordador",
+      "abbreviation": "FRY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 264,
+    "fields": {
+      "base_street_type": 59,
+      "translated_to": 3,
+      "name": "Camp",
+      "abbreviation": "FLD"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 265,
+    "fields": {
+      "base_street_type": 60,
+      "translated_to": 3,
+      "name": "Els camps",
+      "abbreviation": "FLDS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 266,
+    "fields": {
+      "base_street_type": 61,
+      "translated_to": 3,
+      "name": "Pis",
+      "abbreviation": "FLT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 267,
+    "fields": {
+      "base_street_type": 62,
+      "translated_to": 3,
+      "name": "Pisos",
+      "abbreviation": "FLTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 268,
+    "fields": {
+      "base_street_type": 63,
+      "translated_to": 3,
+      "name": "Gual",
+      "abbreviation": "FRD"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 269,
+    "fields": {
+      "base_street_type": 64,
+      "translated_to": 3,
+      "name": "Guals",
+      "abbreviation": "FRDS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 270,
+    "fields": {
+      "base_street_type": 65,
+      "translated_to": 3,
+      "name": "Bosc",
+      "abbreviation": "FRST"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 271,
+    "fields": {
+      "base_street_type": 66,
+      "translated_to": 3,
+      "name": "Forjar",
+      "abbreviation": "FRG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 272,
+    "fields": {
+      "base_street_type": 67,
+      "translated_to": 3,
+      "name": "Forges",
+      "abbreviation": "FRGS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 273,
+    "fields": {
+      "base_street_type": 68,
+      "translated_to": 3,
+      "name": "Forquilla",
+      "abbreviation": "FRK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 274,
+    "fields": {
+      "base_street_type": 69,
+      "translated_to": 3,
+      "name": "Forquilles",
+      "abbreviation": "FRKS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 275,
+    "fields": {
+      "base_street_type": 70,
+      "translated_to": 3,
+      "name": "Fortalesa",
+      "abbreviation": "FT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 276,
+    "fields": {
+      "base_street_type": 71,
+      "translated_to": 3,
+      "name": "Autopista",
+      "abbreviation": "FWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 277,
+    "fields": {
+      "base_street_type": 72,
+      "translated_to": 3,
+      "name": "Jard\u00ed",
+      "abbreviation": "GDN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 278,
+    "fields": {
+      "base_street_type": 73,
+      "translated_to": 3,
+      "name": "Jardins",
+      "abbreviation": "GDNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 279,
+    "fields": {
+      "base_street_type": 74,
+      "translated_to": 3,
+      "name": "Entrada",
+      "abbreviation": "GTWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 280,
+    "fields": {
+      "base_street_type": 75,
+      "translated_to": 3,
+      "name": "Carrerada",
+      "abbreviation": "GLN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 281,
+    "fields": {
+      "base_street_type": 76,
+      "translated_to": 3,
+      "name": "Glens",
+      "abbreviation": "GLNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 282,
+    "fields": {
+      "base_street_type": 77,
+      "translated_to": 3,
+      "name": "Verd",
+      "abbreviation": "GRN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 283,
+    "fields": {
+      "base_street_type": 78,
+      "translated_to": 3,
+      "name": "Verdures",
+      "abbreviation": "GRNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 284,
+    "fields": {
+      "base_street_type": 79,
+      "translated_to": 3,
+      "name": "Arbreda",
+      "abbreviation": "GRV"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 285,
+    "fields": {
+      "base_street_type": 80,
+      "translated_to": 3,
+      "name": "Groves",
+      "abbreviation": "GRVS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 286,
+    "fields": {
+      "base_street_type": 81,
+      "translated_to": 3,
+      "name": "Port",
+      "abbreviation": "HBR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 287,
+    "fields": {
+      "base_street_type": 82,
+      "translated_to": 3,
+      "name": "Ports",
+      "abbreviation": "HBRS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 288,
+    "fields": {
+      "base_street_type": 83,
+      "translated_to": 3,
+      "name": "Refugi",
+      "abbreviation": "HVN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 289,
+    "fields": {
+      "base_street_type": 84,
+      "translated_to": 3,
+      "name": "Altures",
+      "abbreviation": "HTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 290,
+    "fields": {
+      "base_street_type": 85,
+      "translated_to": 3,
+      "name": "Carretera",
+      "abbreviation": "HWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 291,
+    "fields": {
+      "base_street_type": 86,
+      "translated_to": 3,
+      "name": "Tur\u00f3",
+      "abbreviation": "HL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 292,
+    "fields": {
+      "base_street_type": 87,
+      "translated_to": 3,
+      "name": "Hills",
+      "abbreviation": "HLS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 293,
+    "fields": {
+      "base_street_type": 88,
+      "translated_to": 3,
+      "name": "Buit",
+      "abbreviation": "HOLW"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 294,
+    "fields": {
+      "base_street_type": 89,
+      "translated_to": 3,
+      "name": "Entrada",
+      "abbreviation": "INLT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 295,
+    "fields": {
+      "base_street_type": 90,
+      "translated_to": 3,
+      "name": "Illa",
+      "abbreviation": "IS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 296,
+    "fields": {
+      "base_street_type": 91,
+      "translated_to": 3,
+      "name": "Illes",
+      "abbreviation": "ISS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 297,
+    "fields": {
+      "base_street_type": 92,
+      "translated_to": 3,
+      "name": "Illa",
+      "abbreviation": "ISLE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 298,
+    "fields": {
+      "base_street_type": 93,
+      "translated_to": 3,
+      "name": "Uni\u00f3",
+      "abbreviation": "JCT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 299,
+    "fields": {
+      "base_street_type": 94,
+      "translated_to": 3,
+      "name": "Unions",
+      "abbreviation": "JCTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 300,
+    "fields": {
+      "base_street_type": 95,
+      "translated_to": 3,
+      "name": "Clau",
+      "abbreviation": "KY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 301,
+    "fields": {
+      "base_street_type": 96,
+      "translated_to": 3,
+      "name": "Claus",
+      "abbreviation": "KYS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 302,
+    "fields": {
+      "base_street_type": 97,
+      "translated_to": 3,
+      "name": "Monticle",
+      "abbreviation": "KNL "
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 303,
+    "fields": {
+      "base_street_type": 98,
+      "translated_to": 3,
+      "name": "Knolls",
+      "abbreviation": "KNLS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 304,
+    "fields": {
+      "base_street_type": 99,
+      "translated_to": 3,
+      "name": "Llac",
+      "abbreviation": "LK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 305,
+    "fields": {
+      "base_street_type": 100,
+      "translated_to": 3,
+      "name": "Llacs",
+      "abbreviation": "LKS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 306,
+    "fields": {
+      "base_street_type": 101,
+      "translated_to": 3,
+      "name": "Terra",
+      "abbreviation": "LAND"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 307,
+    "fields": {
+      "base_street_type": 102,
+      "translated_to": 3,
+      "name": "Aterratge",
+      "abbreviation": "LNDG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 308,
+    "fields": {
+      "base_street_type": 103,
+      "translated_to": 3,
+      "name": "Carril",
+      "abbreviation": "LN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 309,
+    "fields": {
+      "base_street_type": 104,
+      "translated_to": 3,
+      "name": "Llum",
+      "abbreviation": "LGT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 310,
+    "fields": {
+      "base_street_type": 105,
+      "translated_to": 3,
+      "name": "Llums",
+      "abbreviation": "LGTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 311,
+    "fields": {
+      "base_street_type": 106,
+      "translated_to": 3,
+      "name": "Pa",
+      "abbreviation": "LF"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 312,
+    "fields": {
+      "base_street_type": 107,
+      "translated_to": 3,
+      "name": "Bloqueig",
+      "abbreviation": "LCK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 313,
+    "fields": {
+      "base_street_type": 108,
+      "translated_to": 3,
+      "name": "Cabells",
+      "abbreviation": "LCKS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 314,
+    "fields": {
+      "base_street_type": 109,
+      "translated_to": 3,
+      "name": "L\u00f2gia",
+      "abbreviation": "LDG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 315,
+    "fields": {
+      "base_street_type": 110,
+      "translated_to": 3,
+      "name": "Bucle",
+      "abbreviation": "LOOP"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 316,
+    "fields": {
+      "base_street_type": 111,
+      "translated_to": 3,
+      "name": "Centre comercial",
+      "abbreviation": "MALL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 317,
+    "fields": {
+      "base_street_type": 112,
+      "translated_to": 3,
+      "name": "Senyoriu",
+      "abbreviation": "MNR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 318,
+    "fields": {
+      "base_street_type": 113,
+      "translated_to": 3,
+      "name": "Manors",
+      "abbreviation": "MNRS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 319,
+    "fields": {
+      "base_street_type": 114,
+      "translated_to": 3,
+      "name": "Prat",
+      "abbreviation": "MDW"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 320,
+    "fields": {
+      "base_street_type": 115,
+      "translated_to": 3,
+      "name": "Meadows",
+      "abbreviation": "MDWS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 321,
+    "fields": {
+      "base_street_type": 116,
+      "translated_to": 3,
+      "name": "Cavallerissa",
+      "abbreviation": "MEWS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 322,
+    "fields": {
+      "base_street_type": 117,
+      "translated_to": 3,
+      "name": "Mol\u00ed",
+      "abbreviation": "ML"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 323,
+    "fields": {
+      "base_street_type": 118,
+      "translated_to": 3,
+      "name": "Mills",
+      "abbreviation": "MLS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 324,
+    "fields": {
+      "base_street_type": 119,
+      "translated_to": 3,
+      "name": "Missi\u00f3",
+      "abbreviation": "MSN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 325,
+    "fields": {
+      "base_street_type": 120,
+      "translated_to": 3,
+      "name": "Autopista",
+      "abbreviation": "MTWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 326,
+    "fields": {
+      "base_street_type": 121,
+      "translated_to": 3,
+      "name": "Muntanya",
+      "abbreviation": "MT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 327,
+    "fields": {
+      "base_street_type": 122,
+      "translated_to": 3,
+      "name": "Muntanya",
+      "abbreviation": "MTN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 328,
+    "fields": {
+      "base_street_type": 123,
+      "translated_to": 3,
+      "name": "Muntanyes",
+      "abbreviation": "MTNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 329,
+    "fields": {
+      "base_street_type": 124,
+      "translated_to": 3,
+      "name": "Coll",
+      "abbreviation": "NCK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 330,
+    "fields": {
+      "base_street_type": 125,
+      "translated_to": 3,
+      "name": "Hort",
+      "abbreviation": "ORCH"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 331,
+    "fields": {
+      "base_street_type": 126,
+      "translated_to": 3,
+      "name": "Oval",
+      "abbreviation": "OVAL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 332,
+    "fields": {
+      "base_street_type": 127,
+      "translated_to": 3,
+      "name": "Pas superior",
+      "abbreviation": "OPAS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 333,
+    "fields": {
+      "base_street_type": 128,
+      "translated_to": 3,
+      "name": "Parc",
+      "abbreviation": "PARK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 334,
+    "fields": {
+      "base_street_type": 129,
+      "translated_to": 3,
+      "name": "Parcs",
+      "abbreviation": "PARK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 335,
+    "fields": {
+      "base_street_type": 130,
+      "translated_to": 3,
+      "name": "Parkway",
+      "abbreviation": "PKWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 336,
+    "fields": {
+      "base_street_type": 131,
+      "translated_to": 3,
+      "name": "Parkways",
+      "abbreviation": "PKWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 337,
+    "fields": {
+      "base_street_type": 132,
+      "translated_to": 3,
+      "name": "Passar",
+      "abbreviation": "PASS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 338,
+    "fields": {
+      "base_street_type": 133,
+      "translated_to": 3,
+      "name": "Passatge",
+      "abbreviation": "PSGE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 339,
+    "fields": {
+      "base_street_type": 134,
+      "translated_to": 3,
+      "name": "Cam\u00ed",
+      "abbreviation": "PATH"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 340,
+    "fields": {
+      "base_street_type": 135,
+      "translated_to": 3,
+      "name": "Llu\u00e7 de riu",
+      "abbreviation": "PIKE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 341,
+    "fields": {
+      "base_street_type": 136,
+      "translated_to": 3,
+      "name": "Pi",
+      "abbreviation": "PNE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 342,
+    "fields": {
+      "base_street_type": 137,
+      "translated_to": 3,
+      "name": "Pins",
+      "abbreviation": "PNES"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 343,
+    "fields": {
+      "base_street_type": 138,
+      "translated_to": 3,
+      "name": "Lloc",
+      "abbreviation": "PL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 344,
+    "fields": {
+      "base_street_type": 139,
+      "translated_to": 3,
+      "name": "Plana",
+      "abbreviation": "PLN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 345,
+    "fields": {
+      "base_street_type": 140,
+      "translated_to": 3,
+      "name": "Planes",
+      "abbreviation": "PLNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 346,
+    "fields": {
+      "base_street_type": 141,
+      "translated_to": 3,
+      "name": "Pla\u00e7a",
+      "abbreviation": "PLZ"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 347,
+    "fields": {
+      "base_street_type": 142,
+      "translated_to": 3,
+      "name": "Punt",
+      "abbreviation": "PT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 348,
+    "fields": {
+      "base_street_type": 143,
+      "translated_to": 3,
+      "name": "Punts",
+      "abbreviation": "PTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 349,
+    "fields": {
+      "base_street_type": 144,
+      "translated_to": 3,
+      "name": "Port",
+      "abbreviation": "PRT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 350,
+    "fields": {
+      "base_street_type": 145,
+      "translated_to": 3,
+      "name": "Ports",
+      "abbreviation": "PRTS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 351,
+    "fields": {
+      "base_street_type": 146,
+      "translated_to": 3,
+      "name": "Prat",
+      "abbreviation": "PR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 352,
+    "fields": {
+      "base_street_type": 147,
+      "translated_to": 3,
+      "name": "Radial",
+      "abbreviation": "RADL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 353,
+    "fields": {
+      "base_street_type": 148,
+      "translated_to": 3,
+      "name": "Rampa",
+      "abbreviation": "RAMP"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 354,
+    "fields": {
+      "base_street_type": 149,
+      "translated_to": 3,
+      "name": "Ranxo",
+      "abbreviation": "RNCH"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 355,
+    "fields": {
+      "base_street_type": 150,
+      "translated_to": 3,
+      "name": "R\u00e0pid",
+      "abbreviation": "RPD"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 356,
+    "fields": {
+      "base_street_type": 151,
+      "translated_to": 3,
+      "name": "R\u00e0pids",
+      "abbreviation": "RPDS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 357,
+    "fields": {
+      "base_street_type": 152,
+      "translated_to": 3,
+      "name": "Descans",
+      "abbreviation": "RST"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 358,
+    "fields": {
+      "base_street_type": 153,
+      "translated_to": 3,
+      "name": "Cresta",
+      "abbreviation": "RDG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 359,
+    "fields": {
+      "base_street_type": 154,
+      "translated_to": 3,
+      "name": "Crestes",
+      "abbreviation": "RDGS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 360,
+    "fields": {
+      "base_street_type": 155,
+      "translated_to": 3,
+      "name": "Riu",
+      "abbreviation": "RIV"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 361,
+    "fields": {
+      "base_street_type": 156,
+      "translated_to": 3,
+      "name": "Carretera",
+      "abbreviation": "RD"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 362,
+    "fields": {
+      "base_street_type": 157,
+      "translated_to": 3,
+      "name": "Carreteres",
+      "abbreviation": "RDS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 363,
+    "fields": {
+      "base_street_type": 158,
+      "translated_to": 3,
+      "name": "Ruta",
+      "abbreviation": "RTE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 364,
+    "fields": {
+      "base_street_type": 159,
+      "translated_to": 3,
+      "name": "Fila",
+      "abbreviation": "ROW"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 365,
+    "fields": {
+      "base_street_type": 160,
+      "translated_to": 3,
+      "name": "Rude",
+      "abbreviation": "RUE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 366,
+    "fields": {
+      "base_street_type": 161,
+      "translated_to": 3,
+      "name": "Correr",
+      "abbreviation": "RUN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 367,
+    "fields": {
+      "base_street_type": 162,
+      "translated_to": 3,
+      "name": "Cardumen",
+      "abbreviation": "SHL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 368,
+    "fields": {
+      "base_street_type": 163,
+      "translated_to": 3,
+      "name": "Shoals",
+      "abbreviation": "SHLS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 369,
+    "fields": {
+      "base_street_type": 164,
+      "translated_to": 3,
+      "name": "Riba",
+      "abbreviation": "SHR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 370,
+    "fields": {
+      "base_street_type": 165,
+      "translated_to": 3,
+      "name": "Shores",
+      "abbreviation": "SHRS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 371,
+    "fields": {
+      "base_street_type": 166,
+      "translated_to": 3,
+      "name": "Ruta a\u00e8ria",
+      "abbreviation": "SKWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 372,
+    "fields": {
+      "base_street_type": 167,
+      "translated_to": 3,
+      "name": "Primavera",
+      "abbreviation": "SPG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 373,
+    "fields": {
+      "base_street_type": 168,
+      "translated_to": 3,
+      "name": "Molls",
+      "abbreviation": "SPGS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 374,
+    "fields": {
+      "base_street_type": 169,
+      "translated_to": 3,
+      "name": "Esper\u00f3",
+      "abbreviation": "SPUR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 375,
+    "fields": {
+      "base_street_type": 170,
+      "translated_to": 3,
+      "name": "Esperons",
+      "abbreviation": "SPUR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 376,
+    "fields": {
+      "base_street_type": 171,
+      "translated_to": 3,
+      "name": "Quadrat",
+      "abbreviation": "SQ"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 377,
+    "fields": {
+      "base_street_type": 172,
+      "translated_to": 3,
+      "name": "Quadrats",
+      "abbreviation": "SQS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 378,
+    "fields": {
+      "base_street_type": 173,
+      "translated_to": 3,
+      "name": "Estaci\u00f3",
+      "abbreviation": "STA"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 379,
+    "fields": {
+      "base_street_type": 174,
+      "translated_to": 3,
+      "name": "Stravenue",
+      "abbreviation": "STRA"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 380,
+    "fields": {
+      "base_street_type": 175,
+      "translated_to": 3,
+      "name": "Corrent",
+      "abbreviation": "STRM"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 381,
+    "fields": {
+      "base_street_type": 176,
+      "translated_to": 3,
+      "name": "Carrer",
+      "abbreviation": "ST"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 382,
+    "fields": {
+      "base_street_type": 177,
+      "translated_to": 3,
+      "name": "Carrers",
+      "abbreviation": "STS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 383,
+    "fields": {
+      "base_street_type": 178,
+      "translated_to": 3,
+      "name": "Cimera",
+      "abbreviation": "SMT"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 384,
+    "fields": {
+      "base_street_type": 179,
+      "translated_to": 3,
+      "name": "Terrassa",
+      "abbreviation": "TER"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 385,
+    "fields": {
+      "base_street_type": 180,
+      "translated_to": 3,
+      "name": "Throughway",
+      "abbreviation": "TRWY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 386,
+    "fields": {
+      "base_street_type": 181,
+      "translated_to": 3,
+      "name": "Rastre",
+      "abbreviation": "TRCE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 387,
+    "fields": {
+      "base_street_type": 182,
+      "translated_to": 3,
+      "name": "Pista",
+      "abbreviation": "TRAK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 388,
+    "fields": {
+      "base_street_type": 183,
+      "translated_to": 3,
+      "name": "Trafficway",
+      "abbreviation": "TRFY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 389,
+    "fields": {
+      "base_street_type": 184,
+      "translated_to": 3,
+      "name": "Rastre",
+      "abbreviation": "TRL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 390,
+    "fields": {
+      "base_street_type": 185,
+      "translated_to": 3,
+      "name": "Remolc",
+      "abbreviation": "TRLR"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 391,
+    "fields": {
+      "base_street_type": 186,
+      "translated_to": 3,
+      "name": "T\u00fanel",
+      "abbreviation": "TUNL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 392,
+    "fields": {
+      "base_street_type": 187,
+      "translated_to": 3,
+      "name": "Autopista de peatge",
+      "abbreviation": "TPKE"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 393,
+    "fields": {
+      "base_street_type": 188,
+      "translated_to": 3,
+      "name": "Pas inferior",
+      "abbreviation": "UPAS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 394,
+    "fields": {
+      "base_street_type": 189,
+      "translated_to": 3,
+      "name": "Uni\u00f3",
+      "abbreviation": "UN"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 395,
+    "fields": {
+      "base_street_type": 190,
+      "translated_to": 3,
+      "name": "Sindicats",
+      "abbreviation": "UNS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 395,
+    "fields": {
+      "base_street_type": 190,
+      "translated_to": 3,
+      "name": "Vall",
+      "abbreviation": "VLY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 396,
+    "fields": {
+      "base_street_type": 191,
+      "translated_to": 3,
+      "name": "Valls",
+      "abbreviation": "VLYS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 397,
+    "fields": {
+      "base_street_type": 192,
+      "translated_to": 3,
+      "name": "Viaducte",
+      "abbreviation": "VIA"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 398,
+    "fields": {
+      "base_street_type": 193,
+      "translated_to": 3,
+      "name": "Vista",
+      "abbreviation": "VW"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 399,
+    "fields": {
+      "base_street_type": 194,
+      "translated_to": 3,
+      "name": "Vistes",
+      "abbreviation": "VWS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 400,
+    "fields": {
+      "base_street_type": 195,
+      "translated_to": 3,
+      "name": "Poble",
+      "abbreviation": "VLG"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 401,
+    "fields": {
+      "base_street_type": 196,
+      "translated_to": 3,
+      "name": "Pobles",
+      "abbreviation": "VLGS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 402,
+    "fields": {
+      "base_street_type": 197,
+      "translated_to": 3,
+      "name": "Ville",
+      "abbreviation": "VL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 403,
+    "fields": {
+      "base_street_type": 198,
+      "translated_to": 3,
+      "name": "Vista",
+      "abbreviation": "VIS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 404,
+    "fields": {
+      "base_street_type": 199,
+      "translated_to": 3,
+      "name": "Passeig",
+      "abbreviation": "WALK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 405,
+    "fields": {
+      "base_street_type": 200,
+      "translated_to": 3,
+      "name": "Passejades",
+      "abbreviation": "WALK"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 406,
+    "fields": {
+      "base_street_type": 201,
+      "translated_to": 3,
+      "name": "Paret",
+      "abbreviation": "WALL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 407,
+    "fields": {
+      "base_street_type": 202,
+      "translated_to": 3,
+      "name": "Cam\u00ed",
+      "abbreviation": "WAY"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 408,
+    "fields": {
+      "base_street_type": 203,
+      "translated_to": 3,
+      "name": "Maneres",
+      "abbreviation": "WAYS"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 409,
+    "fields": {
+      "base_street_type": 204,
+      "translated_to": 3,
+      "name": "B\u00e9",
+      "abbreviation": "WL"
+    }
+  },
+  {
+    "model": "location.StreetTypeTranslation",
+    "pk": 410,
+    "fields": {
+      "base_street_type": 205,
+      "translated_to": 3,
+      "name": "Wells",
+      "abbreviation": "WLS"
+    }
+  }
+]

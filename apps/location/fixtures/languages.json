@@ -1,0 +1,26 @@
+[
+	{
+		"model": "location.Language",
+		"pk": 1,
+		"fields": {
+			"name": "English",
+			"alpha2": "EN"
+		}
+	},
+	{
+		"model": "location.Language",
+		"pk": 2,
+		"fields": {
+			"name": "Spanish",
+			"alpha2": "ES"
+		}
+	},
+	{
+		"model": "location.Language",
+		"pk": 3,
+		"fields": {
+			"name": "Catalan",
+			"alpha2": "CA"
+		}
+	}
+]

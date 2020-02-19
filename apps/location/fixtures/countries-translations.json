@@ -1,0 +1,20 @@
+[
+	{
+		"model": "location.CountryTranslation",
+		"pk": 1,
+		"fields": {
+			"base_country": 1,
+			"translated_to": 2,
+			"name": "España"
+		}
+	},
+	{
+		"model": "location.CountryTranslation",
+		"pk": 2,
+		"fields": {
+			"base_country": 1,
+			"translated_to": 3,
+			"name": "Espanya"
+		}
+	}
+]

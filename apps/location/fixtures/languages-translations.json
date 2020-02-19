@@ -1,0 +1,56 @@
+[
+	{
+		"model": "location.LanguageTranslation",
+		"pk": 1,
+		"fields": {
+			"base_language": 1,
+			"translated_to": 2,
+			"name": "Inglés"
+		}
+	},
+	{
+		"model": "location.LanguageTranslation",
+		"pk": 2,
+		"fields": {
+			"base_language": 2,
+			"translated_to": 2,
+			"name": "Español"
+		}
+	},
+	{
+		"model": "location.LanguageTranslation",
+		"pk": 3,
+		"fields": {
+			"base_language": 3,
+			"translated_to": 2,
+			"name": "Catalán"
+		}
+	},
+	{
+		"model": "location.LanguageTranslation",
+		"pk": 4,
+		"fields": {
+			"base_language": 1,
+			"translated_to": 3,
+			"name": "Anglès"
+		}
+	},
+	{
+		"model": "location.LanguageTranslation",
+		"pk": 5,
+		"fields": {
+			"base_language": 2,
+			"translated_to": 3,
+			"name": "Castellà"
+		}
+	},
+	{
+		"model": "location.LanguageTranslation",
+		"pk": 6,
+		"fields": {
+			"base_language": 3,
+			"translated_to": 3,
+			"name": "Català"
+		}
+	}
+]
