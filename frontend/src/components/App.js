@@ -1,8 +1,7 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { withStyles } from "@material-ui/core/styles";
-import PostList from "./PostList";
-import UserList from "./UserList";
+import CoursesList from "./CoursesList";
 
 const styles = theme => ({
   root: {
@@ -27,8 +26,7 @@ class App extends Component {
     return (
       <div className={classes.root}>
         <div className={classes.content}>
-          <UserList />
-          <PostList />
+          <CoursesList />
         </div>
       </div>
     );
