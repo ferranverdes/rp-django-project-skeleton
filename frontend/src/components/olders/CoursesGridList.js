@@ -9,6 +9,7 @@ import { StickyContainer, Sticky } from "react-sticky";
 import useResourceList from "../hooks/useResourceList";
 import { COURSES_URL } from "../constants/";
 import CourseCard from "./CourseCard";
+import CategoriesList from "./CategoriesList";
 
 const useStyles = makeStyles(theme => ({
   gridRoot: {
@@ -36,24 +37,9 @@ const useStyles = makeStyles(theme => ({
   categoryList: {
     display: "flex",
     flexDirection: "column",
-    justifyContent: "center"
+    justifyContent: "center",
   }
 }));
-
-// <div className={classes.categoryList} style={style}>
-// 	<Typography gutterBottom variant="h5" component="h2">
-// 		Categories
-// 	</Typography>
-// 	{[0, 1, 2].map(category => (
-// 		<Button
-// 			variant="contained"
-// 			color="primary"
-// 			style={{ margin: 5 }}
-// 		>
-// 			More info
-// 		</Button>
-// 	))}
-// </div>
 
 export default function TitlebarGridList() {
   const classes = useStyles();
@@ -61,26 +47,14 @@ export default function TitlebarGridList() {
 
   return (
     <div className={classes.root}>
-      <StickyContainer className="container">
+      <StickyContainer>
         <Sticky>
           {({ style }) => (
             <div className={classes.categoryList} style={style}>
               <Typography gutterBottom variant="h5" component="h2">
                 Categories
               </Typography>
-              {[
-                { name: "All" },
-                { name: "Software Development" },
-                { name: "Information Security" }
-              ].map(category => (
-                <Button
-                  variant="contained"
-                  color="primary"
-                  style={{ margin: 5 }}
-                >
-                  {category.name}
-                </Button>
-              ))}
+              <CategoriesList />
             </div>
           )}
         </Sticky>

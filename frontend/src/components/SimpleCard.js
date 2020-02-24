@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 import { makeStyles } from "@material-ui/core/styles";
 import Card from "@material-ui/core/Card";
 import CardActions from "@material-ui/core/CardActions";
@@ -18,7 +19,7 @@ const useStyles = makeStyles(theme => ({
     paddingTop: "56.25%" // 16:9
   },
   cardContent: {
-    flexGrow: 1
+    minHeight: 110
   },
   cardActions: {
     display: "flex",
@@ -26,22 +27,26 @@ const useStyles = makeStyles(theme => ({
   }
 }));
 
-export default function CourseCard(props) {
+function SimpleCard(props) {
+  const { description, imageUrl, title, url } = props;
   const classes = useStyles();
-	const { course } = props;
 
   return (
-    <Card key={course.url} className={classes.card} elevation={6}>
+    <Card key={url} className={classes.card} elevation={8}>
       <CardMedia
         className={classes.cardMedia}
-        image={course.preview_image}
-        title={course.title}
+        image={imageUrl}
+        title={title}
       />
       <CardContent className={classes.cardContent}>
         <Typography gutterBottom variant="h5" component="h2">
-          {course.title}
+          {title}
         </Typography>
-        <Typography>{course.description}</Typography>
+        <Typography>
+          {description.length < 70
+            ? description
+            : `${description.substring(0, 70)}...`}
+        </Typography>
       </CardContent>
       <CardActions className={classes.cardActions}>
         <Button variant="contained" color="primary">
@@ -51,3 +56,12 @@ export default function CourseCard(props) {
     </Card>
   );
 }
+
+SimpleCard.propTypes = {
+  description: PropTypes.string.isRequired,
+  imageUrl: PropTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
+  url: PropTypes.string.isRequired
+};
+
+export default SimpleCard;

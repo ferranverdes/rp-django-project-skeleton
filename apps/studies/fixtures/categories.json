@@ -1,0 +1,16 @@
+[
+  {
+    "model": "studies.category",
+    "pk": 1,
+    "fields": {
+      "name": "Software development"
+    }
+  },
+	{
+    "model": "studies.category",
+    "pk": 2,
+    "fields": {
+      "name": "Pentesting"
+    }
+  }
+]

@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { withStyles } from "@material-ui/core/styles";
-import CoursesGridList from "./CoursesGridList";
+import StickedFilterGrid from "./StickedFilterGrid";
 
 const styles = theme => ({
   root: {
@@ -9,9 +9,6 @@ const styles = theme => ({
     height: "100%",
     width: "100%",
     justifyContent: "center"
-  },
-  content: {
-    alignSelf: "center"
   }
 });
 
@@ -25,8 +22,8 @@ class App extends Component {
 
     return (
       <div className={classes.root}>
-        <div className={classes.content}>
-          <CoursesGridList />
+        <div style={{ width: 1000 }}>
+          <StickedFilterGrid />
         </div>
       </div>
     );

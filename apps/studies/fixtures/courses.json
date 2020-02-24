@@ -1,0 +1,169 @@
+[
+  {
+    "model": "studies.course",
+    "pk": 1,
+    "fields": {
+      "title": "Django",
+      "subtitle": "Learn the fundamental concepts of programming in Django",
+      "description": "Starting from scratch, you’ll learn to build a full blog app.",
+      "created_on": "2020-02-19T18:00:32.209Z",
+      "last_modified_on": "2020-02-19T18:00:32.209Z",
+      "preview_image": "previews/2020/02/19/build-deploy-run_3JWp8sl.png",
+			"categories": [
+				1
+			]
+    }
+  },
+  {
+    "model": "studies.course",
+    "pk": 2,
+    "fields": {
+      "title": "Django + React.js",
+      "subtitle": "Use the power of django in a React.js frontend",
+      "description": "Django and React make an awesome combination.",
+      "created_on": "2020-02-23T11:39:45.702Z",
+      "last_modified_on": "2020-02-23T11:39:45.702Z",
+      "preview_image": "previews/2020/02/23/build-deploy-run.png",
+			"categories": [
+				1
+			]
+    }
+  },
+  {
+    "model": "studies.course",
+    "pk": 3,
+    "fields": {
+      "title": "Git version control",
+      "subtitle": "This is a subtitle for my awesome course",
+      "description": "This is the description of my third course really really long and long and long and really really long and long and long really really long and long and long and really really long and long and long really really long and long and long and really really long and long and long",
+      "created_on": "2020-02-23T11:39:59.231Z",
+      "last_modified_on": "2020-02-23T19:41:42.670Z",
+      "preview_image": "previews/2020/02/23/build-deploy-run_bgXw4Eo.png",
+			"categories": [
+				1
+			]
+    }
+  },
+  {
+    "model": "studies.course",
+    "pk": 4,
+    "fields": {
+      "title": "Wireless Pentesting",
+      "subtitle": "This is a subtitle for my awesome course",
+      "description": "This is the description of my fourth course",
+      "created_on": "2020-02-23T11:40:11.921Z",
+      "last_modified_on": "2020-02-23T11:40:11.921Z",
+      "preview_image": "previews/2020/02/23/build-deploy-run_94T9OcN.png",
+			"categories": [
+				2
+			]
+    }
+  },
+  {
+    "model": "studies.course",
+    "pk": 5,
+    "fields": {
+      "title": "My fifth",
+      "subtitle": "This is a subtitle for my awesome course",
+      "description": "This is the description of my fifth course",
+      "created_on": "2020-02-23T11:40:41.254Z",
+      "last_modified_on": "2020-02-23T11:40:41.254Z",
+      "preview_image": "previews/2020/02/23/build-deploy-run_eh5mVAL.png",
+			"categories": [
+				1,
+				2
+			]
+    }
+  },
+  {
+    "model": "studies.course",
+    "pk": 6,
+    "fields": {
+      "title": "My sixth course",
+      "subtitle": "This is a subtitle for my awesome course",
+      "description": "This is the description of my sixth course",
+      "created_on": "2020-02-23T16:51:38.003Z",
+      "last_modified_on": "2020-02-23T16:51:38.003Z",
+      "preview_image": "previews/2020/02/23/build-deploy-run_4vesb9T.png",
+			"categories": [
+				2
+			]
+    }
+  },
+  {
+    "model": "studies.course",
+    "pk": 7,
+    "fields": {
+      "title": "My seventh course",
+      "subtitle": "This is a subtitle for my awesome course",
+      "description": "This is the description of my seventh course",
+      "created_on": "2020-02-23T16:52:05.545Z",
+      "last_modified_on": "2020-02-23T16:52:05.545Z",
+      "preview_image": "previews/2020/02/23/build-deploy-run_Uiphteh.png",
+			"categories": [
+				2
+			]
+    }
+  },
+  {
+    "model": "studies.course",
+    "pk": 8,
+    "fields": {
+      "title": "My eighth",
+      "subtitle": "This is a subtitle for my awesome course",
+      "description": "This is the description of my eighth course",
+      "created_on": "2020-02-23T16:52:29.481Z",
+      "last_modified_on": "2020-02-23T16:52:29.481Z",
+      "preview_image": "previews/2020/02/23/build-deploy-run_ywfzRul.png",
+			"categories": [
+				1
+			]
+    }
+  },
+  {
+    "model": "studies.course",
+    "pk": 9,
+    "fields": {
+      "title": "My nineth course",
+      "subtitle": "This is a subtitle for my awesome course",
+      "description": "This is the description of my nineth course",
+      "created_on": "2020-02-23T16:52:48.013Z",
+      "last_modified_on": "2020-02-23T16:52:48.013Z",
+      "preview_image": "previews/2020/02/23/build-deploy-run_1Cs7Fyv.png",
+			"categories": [
+				1,
+				2
+			]
+    }
+  },
+  {
+    "model": "studies.course",
+    "pk": 10,
+    "fields": {
+      "title": "My tenth course",
+      "subtitle": "This is a subtitle for my awesome course",
+      "description": "This is the description of my tenth course",
+      "created_on": "2020-02-23T16:53:00.905Z",
+      "last_modified_on": "2020-02-23T16:53:00.905Z",
+      "preview_image": "previews/2020/02/23/build-deploy-run_StnBVf3.png",
+			"categories": [
+				1
+			]
+    }
+  },
+  {
+    "model": "studies.course",
+    "pk": 11,
+    "fields": {
+      "title": "My eleventh course",
+      "subtitle": "This is a subtitle for my awesome course",
+      "description": "This is the description of my eleventh course",
+      "created_on": "2020-02-23T16:53:23.460Z",
+      "last_modified_on": "2020-02-23T16:53:23.460Z",
+      "preview_image": "previews/2020/02/23/build-deploy-run_hjCjBTx.png",
+			"categories": [
+				2
+			]
+    }
+  }
+]
