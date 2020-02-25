@@ -1,9 +1,15 @@
 language: python
 python:
-  - "3.7"
-
+- '3.7'
 install:
-  - pip install -r requirements.txt
-
+- pip install -r requirements.txt
 script:
-  - python manage.py test apps
+- python manage.py test apps
+deploy:
+  provider: heroku
+  api_key:
+    secure: XNrhYPjLBAtvL8jj7Z2nLE7HHJqlTlsAtISEoxo864QGi07LyXgdUb90SkRzg2xxq8s5YB1pG5EBa0fyEcIQfkPDXI6ip7+Y/vU0jbl7+eC57ZhlxIP5kg6Q7MIcl8/qMn4x2wi8HSshkppMGtzLuVSOtz4TVTb8kZ+RM29Yi/5Y4HPs1e429qLz02lKtQ014t90TNV/0LC1p+wtpoq//B4gN5+3HTxESkJ1HRKLOLQkGBPspB5R3pN6vqM/iFyxAsme53XoSe80137FJnGck9h6xjy3wE6rcTytUp7QIvJ6EjD9mBCRUq3KdLwmrE0C1dP9y9/l6p0UexF4cRbaMIjgXBL8ARqIbaHmVsa61Btq9mSzrs0wotwhP72rjlo2caw09u4bfhhO8PjtsXaWBz/R0vwFWrobwBt/8mgJRiJNtNkScv7jOZVRYqxsExFqoxOHKsh1Hez3GTAcxOdhWRa5shoUbJoeAgF8k5gI2SHI+e+sBQc1vf53zkwnP0T4MSfHk58GQ9B7EifZUlrTifQAlpXEpM8mNZjvkY/MbfeJfOvkw0vkpwivNWVJHlST4iZAI1AI60NB5S4aDyLvktrenVN4eIHwNsYyeAzcztPInXJo8D4tAlaQcOpzaV5opUholU9J+1nIu+BKSL1CBEMbN0GLWN/iRfBTi1I0JDI=
+  app: django-project-skeleton
+  on:
+    repo: ferranverdes/rp-django-project-skeleton
+    branch: master
