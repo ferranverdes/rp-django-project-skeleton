@@ -5,6 +5,7 @@ install:
 - pip install -r requirements.txt
 before_script:
 - python manage.py collectstatic --noinput
+- python manage.py migrate
 script:
 - python manage.py test apps
 deploy:
