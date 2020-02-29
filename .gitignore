@@ -1,3 +1,13 @@
+# Custom exclusions
+
+postgres/data/
+
+# End of custom exclusions
+
+
+
+
+
 # Created by https://www.gitignore.io/api/venv,django,python
 # Edit at https://www.gitignore.io/?templates=venv,django,python
 

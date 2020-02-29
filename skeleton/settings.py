@@ -7,13 +7,13 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '_pti9sp3ll*=^rghp+-7=3krj_&69ksn*-@^^v#c%cun5iwsic'
+SECRET_KEY = os.getenv('DJANGO_SECRET_KEY')
 
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = int(os.getenv('DJANGO_DEBUG'))
 
-ALLOWED_HOSTS = ['django-project-skeleton.herokuapp.com']
+# It is needed to declare the ALLOWED_HOSTS environment variable following this
+# structure: DJANGO_ALLOWED_HOSTS=localhost 127.0.0.1 [::1]
+ALLOWED_HOSTS = os.getenv('DJANGO_ALLOWED_HOSTS').split(" ")
 
 # Application definition
 
@@ -64,8 +64,12 @@ WSGI_APPLICATION = 'skeleton.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': os.getenv('DJANGO_SQL_POSTGRES_ENGINE'),
+        'NAME': os.getenv('POSTGRES_DATABASE'),
+		'HOST': os.getenv('POSTGRES_HOST'),
+		'PORT': os.getenv('POSTGRES_PORT'),
+		'USER': os.getenv('POSTGRES_USER'),
+		'PASSWORD': os.getenv('POSTGRES_PASSWORD')
     }
 }
 

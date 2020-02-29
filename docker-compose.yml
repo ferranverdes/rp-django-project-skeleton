@@ -1,0 +1,68 @@
+# If you use an environment file in your project (.env) you can refer to all
+# definitions that it contains as variables in this file using ${VARIABLE_NAME}.
+
+# Specifies the syntax version of docker-compose we will be using.
+version: "3"
+
+# This is the root section and it defines the configuration to apply to each
+# container we are going to create using this docker-compose file.
+services:
+  # From this point, we will highlight the different services we are launching.
+
+  # The first one is called web.
+  web:
+
+    # Using build you can specify the location of the dockerfile that will be used
+    # for this service.
+    build: .
+
+    # Gives the container name used when the containers are up and running.
+    container_name: skeleton
+
+    # Specifies the behavior of the containers in case of unforeseen shutdown.
+    restart: unless-stopped
+
+    # Set environment variables from an external file to the container (NOT to
+    # this docker-compose file itself).
+    env_file:
+      # In this case, all environment variables belonging to our .env file will
+      # also be environment variables of this container.
+      - .env
+
+    # Specifies which ports from the docker containers are mapped to the host machine.
+    ports:
+      # host-port:container-port
+      - "80:${DJANGO_PORT}"
+
+    # Express dependency between services which makes docker to start and stop
+    # services in a specific dependency order.
+    depends_on:
+      - db
+
+    # Instructs the container what commands must be executed before starting.
+    # "sh" indicates we want to run these commands in the shell.
+    # "-c" reads commands from the string.
+    command: sh ./docker-web-service-commands.sh
+
+  db:
+    build: ./postgres
+    container_name: postgres
+    restart: unless-stopped
+
+    # This is another way to add environment variables to the container.
+    environment:
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+
+    # Shares data between the docker container and the host machine in real time.
+    # It allows persistence of data even after the docker-containers are destroyed
+    # and recreated again.
+    volumes:
+      # /host/path:/container/path
+      - ./postgres/data/:/var/lib/postgresql/data/
+
+    # Make port ${POSTGRES_PORT} available to the world outside the container
+    # (but it will NOT be mapped to the host machine).
+    expose:
+      - "${POSTGRES_PORT}"
