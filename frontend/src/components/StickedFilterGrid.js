@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { makeStyles } from "@material-ui/core/styles";
 
 import CategoryList from "./CategoryList";
@@ -22,16 +22,28 @@ const useStyles = makeStyles(theme => ({
   }
 }));
 
+const DEFAULT_SELECTED = 0;
+
 export default function StickedFilterGrid() {
   const classes = useStyles();
+  const [categorySelected, setSelectedCategory] = useState(DEFAULT_SELECTED);
 
   return (
     <div className={classes.root}>
       <div className={classes.firstColumn}>
-        <CategoryList />
+        <CategoryList
+          onClick={setSelectedCategory}
+          selected={categorySelected}
+        />
       </div>
       <div className={classes.secondColumn}>
-        <GridList />
+        <GridList
+          filter={
+            categorySelected !== DEFAULT_SELECTED
+              ? `categories__id=${categorySelected}`
+              : ``
+          }
+        />
       </div>
     </div>
   );

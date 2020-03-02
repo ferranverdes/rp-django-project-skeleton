@@ -22,8 +22,9 @@ const useStyles = makeStyles(theme => ({
 }));
 
 export default function MyGridList(props) {
+	const { filter } = props;
   const classes = useStyles();
-  const items = useResourceList(COURSES_URL);
+  const items = useResourceList(`${COURSES_URL}/?${filter}`);
 
   return (
     <div className={classes.root}>

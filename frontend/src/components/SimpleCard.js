@@ -8,6 +8,8 @@ import CardMedia from "@material-ui/core/CardMedia";
 import Typography from "@material-ui/core/Typography";
 import Button from "@material-ui/core/Button";
 
+const DESCRIPTION_LIMIT = 70;
+
 const useStyles = makeStyles(theme => ({
   card: {
     height: "100%",
@@ -43,9 +45,9 @@ function SimpleCard(props) {
           {title}
         </Typography>
         <Typography>
-          {description.length < 70
+          {description.length < DESCRIPTION_LIMIT
             ? description
-            : `${description.substring(0, 70)}...`}
+            : `${description.substring(0, DESCRIPTION_LIMIT)}...`}
         </Typography>
       </CardContent>
       <CardActions className={classes.cardActions}>

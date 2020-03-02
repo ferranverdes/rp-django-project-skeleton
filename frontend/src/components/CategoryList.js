@@ -6,6 +6,8 @@ import StickedContainer from "./StickedContainer";
 import useResourceList from "../hooks/useResourceList";
 import { CATEGORIES_URL } from "../constants/";
 
+const ALL_CATEGORY_ID = 0;
+
 const useStyles = makeStyles(theme => ({
   root: {
     display: "flex",
@@ -14,6 +16,7 @@ const useStyles = makeStyles(theme => ({
 }));
 
 export default function MyGridList(props) {
+  const { onClick, selected } = props;
   const classes = useStyles();
   const categories = useResourceList(CATEGORIES_URL);
 
@@ -21,10 +24,13 @@ export default function MyGridList(props) {
     <StickedContainer>
       <div className={classes.root}>
         <Button
-          key={0}
+          key={ALL_CATEGORY_ID}
           variant="contained"
           color="primary"
+          size="small"
           style={{ margin: 5 }}
+          disabled={ALL_CATEGORY_ID === selected}
+          onClick={() => onClick(ALL_CATEGORY_ID)}
         >
           ALL
         </Button>
@@ -33,7 +39,10 @@ export default function MyGridList(props) {
             key={category.id}
             variant="contained"
             color="primary"
+            size="small"
             style={{ margin: 5 }}
+            disabled={category.id === selected}
+            onClick={() => onClick(category.id)}
           >
             {category.name}
           </Button>
